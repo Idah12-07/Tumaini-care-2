@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+pymysql
+python-dotenv
+httpx
+pandas
+pydantic==2.7.0
+africastalking
+cryptography

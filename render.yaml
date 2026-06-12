@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: tumaini-api
+    env: python
+    pythonVersion: 3.12.18
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: AT_API_KEY
+        sync: false
+      - key: AT_USERNAME
+        value: sandbox
