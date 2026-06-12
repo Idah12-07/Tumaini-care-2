@@ -1,0 +1,61 @@
+patient_id,first_name,last_name,age,county,sub_county,phone_hash,epl_type,gestational_age_weeks,date_of_loss,facility_of_diagnosis,channel,language_pref,chw_id,enrolled,consent_given,parity,prior_losses,rural
+TUM0001,Auma,Mwangi,39,Nakuru,Nakuru North,254781960013,Spontaneous miscarriage (incomplete),11,2025-01-04,St. Luke's Hospital Kaloleni,SMS,English,CHW009,True,True,3,1,True
+TUM0002,Njeri,Ali,16,Siaya,Rarieda,254754235116,Missed miscarriage,7,2025-04-14,Nyanza General Hospital,SMS,English,CHW001,True,True,5,3,True
+TUM0003,Grace,Gathoni,33,Migori,Uriri,254793103413,Spontaneous miscarriage (incomplete),7,2025-01-11,Jaramogi Teaching Hospital,WhatsApp,English,CHW006,True,True,1,2,True
+TUM0004,Zainab,Hussein,37,Siaya,Ugenya,254783276483,Missed miscarriage,14,2025-03-31,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW006,True,True,3,2,True
+TUM0005,Grace,Njoroge,38,Vihiga,Hamisi,254772423884,Spontaneous miscarriage (incomplete),17,2025-04-23,St. Luke's Hospital Kaloleni,WhatsApp,Swahili,CHW003,True,True,4,3,True
+TUM0006,Njeri,Mohamed,19,Kisumu,Muhoroni,254791669784,Spontaneous miscarriage (incomplete),4,2025-04-21,Coast General Hospital,SMS,English,CHW009,True,True,2,2,True
+TUM0007,Beatrice,Omar,30,Migori,Uriri,254782814893,Spontaneous miscarriage (incomplete),8,2025-01-21,Nyanza General Hospital,SMS,Swahili,CHW009,True,True,0,2,True
+TUM0008,Lydia,Musyoka,27,Nakuru,Nakuru East,254703911718,Ectopic pregnancy,8,2025-04-29,Nakuru Level 5 Hospital,SMS,Swahili+dialect,CHW003,True,True,2,3,False
+TUM0009,Mercy,Musyoka,39,Bungoma,Sirisia,254757871331,Missed miscarriage,14,2025-04-07,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW004,True,True,0,0,False
+TUM0010,Priscilla,Cheruiyot,18,Kisumu,Kisumu Central,254783473829,Chemical pregnancy,19,2025-01-30,Nakuru Level 5 Hospital,SMS,Swahili+dialect,CHW004,True,True,0,0,False
+TUM0011,Beatrice,Otieno,29,Homa Bay,Rangwe,254706513338,Spontaneous miscarriage (complete),18,2025-02-24,Nakuru Level 5 Hospital,WhatsApp,Swahili,CHW004,True,True,0,3,False
+TUM0012,Fatuma,Odhiambo,17,Bungoma,Webuye East,254732677360,Missed miscarriage,9,2025-01-13,Jaramogi Teaching Hospital,WhatsApp,Swahili,CHW008,True,True,2,3,False
+TUM0013,Awino,Musyoka,38,Bungoma,Kanduyi,254709805009,Spontaneous miscarriage (complete),19,2025-03-26,St. Luke's Hospital Kaloleni,USSD,Swahili,CHW001,True,True,4,0,False
+TUM0014,Auma,Ruto,18,Nakuru,Nakuru North,254793990916,Missed miscarriage,14,2025-03-18,Nyanza General Hospital,WhatsApp,English,CHW004,True,True,2,3,True
+TUM0015,Eunice,Owino,26,Siaya,Alego Usonga,254779911838,Chemical pregnancy,12,2025-02-28,Nakuru Level 5 Hospital,USSD,Swahili+dialect,CHW004,True,True,2,2,True
+TUM0016,Esther,Hussein,25,Bungoma,Webuye East,254784124118,Missed miscarriage,8,2025-04-01,Nyanza General Hospital,WhatsApp,Swahili,CHW006,True,True,1,2,True
+TUM0017,Nyambura,Mutua,17,Siaya,Alego Usonga,254705242786,Spontaneous miscarriage (incomplete),4,2025-04-26,Kisumu County Referral Hospital,WhatsApp,Swahili+dialect,CHW003,True,True,4,0,False
+TUM0018,Wanjiru,Musyoka,20,Vihiga,Emuhaya,254705331586,Spontaneous miscarriage (complete),8,2025-03-12,Nakuru Level 5 Hospital,USSD,Swahili+dialect,CHW003,True,True,3,0,True
+TUM0019,Priscilla,Omar,29,Homa Bay,Homa Bay Town,254742160733,Ectopic pregnancy,18,2025-04-11,Nyanza General Hospital,WhatsApp,English,CHW004,True,True,1,0,False
+TUM0020,Caroline,Mutua,24,Migori,Uriri,254786850142,Ectopic pregnancy,12,2025-02-12,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW006,True,True,3,0,True
+TUM0021,Nyambura,Odhiambo,24,Vihiga,Sabatia,254756159514,Spontaneous miscarriage (incomplete),13,2025-01-25,Coast General Hospital,WhatsApp,Swahili,CHW005,True,True,4,1,True
+TUM0022,Zainab,Ndungu,39,Migori,Uriri,254768044369,Chemical pregnancy,14,2025-03-28,Jaramogi Teaching Hospital,WhatsApp,English,CHW009,True,True,3,1,False
+TUM0023,Mutanu,Owino,37,Siaya,Ugenya,254743320037,Missed miscarriage,6,2025-03-07,Jaramogi Teaching Hospital,WhatsApp,English,CHW004,True,True,5,3,True
+TUM0024,Sharon,Achieng,36,Kisii,South Mugirango,254732870831,Missed miscarriage,18,2025-01-19,Nakuru Level 5 Hospital,SMS,English,CHW009,True,True,4,2,False
+TUM0025,Amina,Kipchoge,42,Kakamega,Malava,254727743487,Missed miscarriage,11,2025-03-20,Nyanza General Hospital,WhatsApp,English,CHW004,True,True,2,2,True
+TUM0026,Wairimu,Ali,20,Bungoma,Kanduyi,254731665876,Spontaneous miscarriage (incomplete),5,2025-01-11,Nakuru Level 5 Hospital,SMS,Swahili,CHW010,True,True,5,0,False
+TUM0027,Muthoni,Musyoka,31,Vihiga,Hamisi,254768893734,Spontaneous miscarriage (incomplete),17,2025-02-18,Jaramogi Teaching Hospital,WhatsApp,Swahili,CHW007,True,True,5,1,False
+TUM0028,Wairimu,Ndungu,33,Mombasa,Mvita,254716272046,Spontaneous miscarriage (incomplete),14,2025-03-21,Nakuru Level 5 Hospital,WhatsApp,Swahili,CHW007,True,True,2,3,True
+TUM0029,Wanjiru,Koech,16,Nakuru,Nakuru East,254710033092,Missed miscarriage,11,2025-03-02,Nakuru Level 5 Hospital,WhatsApp,Swahili,CHW004,True,True,3,2,False
+TUM0030,Mercy,Achieng,35,Mombasa,Likoni,254741904966,Molar pregnancy,10,2025-03-19,Kisumu County Referral Hospital,WhatsApp,Swahili+dialect,CHW004,True,True,0,2,False
+TUM0031,Halima,Otieno,19,Vihiga,Emuhaya,254786518506,Ectopic pregnancy,19,2025-04-14,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW008,True,True,5,1,True
+TUM0032,Eunice,Kariuki,24,Bungoma,Sirisia,254776945314,Missed miscarriage,18,2025-03-25,Nakuru Level 5 Hospital,SMS,English,CHW007,True,True,2,0,True
+TUM0033,Esther,Mutua,31,Homa Bay,Ndhiwa,254749480831,Spontaneous miscarriage (incomplete),11,2025-01-24,Coast General Hospital,WhatsApp,English,CHW004,True,True,5,3,False
+TUM0034,Chebet,Waweru,41,Kakamega,Malava,254734957885,Spontaneous miscarriage (incomplete),17,2025-02-27,Coast General Hospital,WhatsApp,Swahili,CHW008,True,True,2,2,True
+TUM0035,Beatrice,Kariuki,22,Nakuru,Nakuru East,254733749894,Spontaneous miscarriage (incomplete),7,2025-04-03,Nakuru Level 5 Hospital,WhatsApp,Swahili,CHW005,True,True,0,1,True
+TUM0036,Wambui,Hussein,25,Kisumu,Muhoroni,254710947775,Missed miscarriage,9,2025-03-12,Kisumu County Referral Hospital,WhatsApp,Swahili+dialect,CHW002,True,True,0,3,True
+TUM0037,Wambui,Ndungu,37,Vihiga,Emuhaya,254713186999,Spontaneous miscarriage (incomplete),11,2025-03-22,St. Luke's Hospital Kaloleni,WhatsApp,Swahili+dialect,CHW005,True,True,4,3,True
+TUM0038,Adhiambo,Kimani,35,Vihiga,Sabatia,254741232812,Molar pregnancy,4,2025-01-08,Jaramogi Teaching Hospital,WhatsApp,English,CHW005,True,True,0,1,True
+TUM0039,Auma,Mutua,30,Siaya,Ugenya,254761832421,Spontaneous miscarriage (incomplete),5,2025-03-31,Nakuru Level 5 Hospital,SMS,English,CHW010,True,True,2,3,True
+TUM0040,Amina,Kariuki,28,Siaya,Rarieda,254771906594,Chemical pregnancy,4,2025-03-31,Kisumu County Referral Hospital,WhatsApp,English,CHW010,True,True,4,0,False
+TUM0041,Njeri,Njoroge,17,Siaya,Rarieda,254742967175,Missed miscarriage,17,2025-03-15,Nyanza General Hospital,WhatsApp,Swahili,CHW003,True,True,2,3,False
+TUM0042,Fatuma,Otieno,28,Siaya,Rarieda,254715451680,Ectopic pregnancy,18,2025-03-26,Jaramogi Teaching Hospital,WhatsApp,Swahili,CHW010,True,True,3,3,False
+TUM0043,Chebet,Mugo,33,Kisii,Kitutu Chache,254771093248,Spontaneous miscarriage (incomplete),4,2025-02-04,St. Luke's Hospital Kaloleni,WhatsApp,Swahili,CHW002,True,True,3,0,False
+TUM0044,Mercy,Mutua,38,Mombasa,Changamwe,254777378263,Spontaneous miscarriage (incomplete),8,2025-03-05,Kisumu County Referral Hospital,WhatsApp,English,CHW007,True,True,2,2,False
+TUM0045,Halima,Mohamed,25,Siaya,Rarieda,254727875588,Ectopic pregnancy,16,2025-04-03,Jaramogi Teaching Hospital,USSD,Swahili+dialect,CHW004,True,True,4,3,True
+TUM0046,Mercy,Ruto,26,Migori,Kuria West,254727028951,Missed miscarriage,18,2025-01-06,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW003,True,True,3,1,True
+TUM0047,Grace,Owino,35,Siaya,Gem,254786578091,Missed miscarriage,11,2025-02-13,Coast General Hospital,SMS,Swahili,CHW004,True,True,5,0,True
+TUM0048,Adhiambo,Mugo,36,Nakuru,Nakuru East,254740050455,Missed miscarriage,17,2025-04-08,Nakuru Level 5 Hospital,WhatsApp,Swahili,CHW003,True,True,1,1,True
+TUM0049,Eunice,Ndungu,37,Migori,Suna East,254737474074,Spontaneous miscarriage (incomplete),9,2025-03-21,Kisumu County Referral Hospital,WhatsApp,Swahili,CHW010,True,True,2,3,False
+TUM0050,Wairimu,Njoroge,25,Kakamega,Shinyalu,254736959440,Spontaneous miscarriage (incomplete),16,2025-04-19,Nyanza General Hospital,WhatsApp,Swahili+dialect,CHW001,True,True,4,3,False
+TUM0051,Esther,Koech,41,Siaya,Ugenya,254739421047,Spontaneous miscarriage (incomplete),5,2025-04-10,St. Luke's Hospital Kaloleni,WhatsApp,Swahili,CHW005,True,True,2,3,True
+TUM0052,Muthoni,Gacheru,33,Mombasa,Nyali,254724745171,Ectopic pregnancy,8,2025-04-11,Nakuru Level 5 Hospital,USSD,English,CHW007,True,True,4,2,True
+TUM0053,Akoth,Koech,24,Migori,Uriri,254796513709,Spontaneous miscarriage (complete),14,2025-01-02,St. Luke's Hospital Kaloleni,WhatsApp,Swahili,CHW008,True,True,5,2,False
+TUM0054,Chebet,Njoroge,17,Nakuru,Nakuru North,254713826758,Chemical pregnancy,17,2025-01-18,St. Luke's Hospital Kaloleni,SMS,Swahili,CHW007,True,True,5,0,False
+TUM0055,Muthoni,Kimani,24,Vihiga,Hamisi,254773515850,Spontaneous miscarriage (incomplete),16,2025-02-22,Nyanza General Hospital,WhatsApp,Swahili,CHW008,True,True,0,1,False
+TUM0056,Auma,Mwangi,17,Vihiga,Sabatia,254718393352,Ectopic pregnancy,4,2025-01-03,Nyanza General Hospital,USSD,Swahili,CHW003,True,True,4,2,False
+TUM0057,Muthoni,Waweru,16,Nakuru,Subukia,254702402681,Spontaneous miscarriage (incomplete),6,2025-03-26,Jaramogi Teaching Hospital,WhatsApp,Swahili,CHW010,True,True,0,3,True
+TUM0058,Priscilla,Mohamed,39,Vihiga,Emuhaya,254770076617,Ectopic pregnancy,18,2025-01-06,Kisumu County Referral Hospital,USSD,Swahili,CHW003,True,True,0,1,True
+TUM0059,Zainab,Gacheru,38,Vihiga,Emuhaya,254778961183,Spontaneous miscarriage (incomplete),17,2025-03-12,Jaramogi Teaching Hospital,USSD,Swahili,CHW008,True,True,3,3,False
+TUM0060,Muthoni,Mwangi,26,Homa Bay,Suba,254711116152,Missed miscarriage,5,2025-02-24,St. Luke's Hospital Kaloleni,USSD,English,CHW002,True,True,3,2,False

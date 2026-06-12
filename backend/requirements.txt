@@ -1,0 +1,35 @@
+﻿# TUMAINI CARE — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# API framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# AI
+anthropic==0.28.0
+langchain==0.2.0
+langchain-anthropic==0.1.15
+
+# Database
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+alembic==1.13.1
+redis==5.0.4
+PyMySQL==1.1.1
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+
+# HTTP + env
+httpx==0.27.0
+python-dotenv==1.0.1
+pydantic==2.7.0
+
+# Testing
+pytest==8.2.0
+httpx==0.27.0
+gunicorn==21.2.0
+
+africastalking==1.2.7
+cryptography==42.0.5

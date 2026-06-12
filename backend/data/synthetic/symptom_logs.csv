@@ -1,0 +1,841 @@
+log_id,patient_id,check_date,day_post_loss,responded,message_text,heavy_bleeding,fever,foul_odour,vomiting,severe_pain,right_sided_pain,risk_level,ai_response_sent,grief_mode_triggered
+LOG00001,TUM0001,2025-01-05,1,True,I've been crying all night,False,False,True,False,False,False,HIGH,True,True
+LOG00002,TUM0001,2025-01-06,2,True,My family doesn't talk about it,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00003,TUM0001,2025-01-07,3,False,,,,,,,,UNKNOWN,False,False
+LOG00004,TUM0001,2025-01-08,4,True,"There is a bad smell, I don't know if normal",False,False,True,False,False,False,HIGH,True,True
+LOG00005,TUM0001,2025-01-09,5,True,I have some mild abdominal cramping,False,False,False,False,False,False,LOW,True,True
+LOG00006,TUM0001,2025-01-10,6,True,I had a low fever last night,False,False,False,False,False,False,LOW,True,False
+LOG00007,TUM0001,2025-01-11,7,True,My family doesn't talk about it,False,True,False,False,False,False,MODERATE,True,True
+LOG00008,TUM0001,2025-01-12,8,True,Still seeing some light bleeding,True,False,False,False,False,False,HIGH,True,True
+LOG00009,TUM0001,2025-01-13,9,False,,,,,,,,UNKNOWN,False,False
+LOG00010,TUM0001,2025-01-14,10,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00011,TUM0001,2025-01-15,11,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,True
+LOG00012,TUM0001,2025-01-16,12,True,"I can't sleep, I keep thinking about my baby",True,False,False,False,False,False,HIGH,True,True
+LOG00013,TUM0001,2025-01-17,13,True,"No more bleeding, feeling slightly better",False,False,False,False,True,False,MODERATE,True,True
+LOG00014,TUM0001,2025-01-18,14,True,"I don't feel well today, very tired",True,False,False,False,False,False,HIGH,True,True
+LOG00015,TUM0002,2025-04-15,1,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00016,TUM0002,2025-04-16,2,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,False
+LOG00017,TUM0002,2025-04-17,3,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00018,TUM0002,2025-04-18,4,True,I don't know if this is normal or not,False,True,False,False,False,True,EMERGENCY,True,True
+LOG00019,TUM0002,2025-04-19,5,False,,,,,,,,UNKNOWN,False,False
+LOG00020,TUM0002,2025-04-20,6,False,,,,,,,,UNKNOWN,False,False
+LOG00021,TUM0002,2025-04-21,7,True,I've been vomiting since morning,False,False,False,False,False,False,LOW,True,True
+LOG00022,TUM0002,2025-04-22,8,True,I've been crying all night,False,True,False,False,False,False,MODERATE,True,False
+LOG00023,TUM0002,2025-04-23,9,True,"I can't sleep, I keep thinking about my baby",False,False,False,False,False,False,LOW,True,True
+LOG00024,TUM0002,2025-04-24,10,True,I don't know if this is normal or not,False,False,False,True,True,False,HIGH,True,True
+LOG00025,TUM0002,2025-04-25,11,False,,,,,,,,UNKNOWN,False,False
+LOG00026,TUM0002,2025-04-26,12,False,,,,,,,,UNKNOWN,False,False
+LOG00027,TUM0002,2025-04-27,13,True,"I can't sleep, I keep thinking about my baby",False,True,False,False,False,False,MODERATE,True,True
+LOG00028,TUM0002,2025-04-28,14,False,,,,,,,,UNKNOWN,False,False
+LOG00029,TUM0003,2025-01-12,1,True,I've been crying all night,False,False,False,False,False,False,LOW,True,True
+LOG00030,TUM0003,2025-01-13,2,True,I've been vomiting since morning,False,True,False,False,False,False,MODERATE,True,True
+LOG00031,TUM0003,2025-01-14,3,True,Still seeing some light bleeding,True,False,False,False,False,False,HIGH,True,False
+LOG00032,TUM0003,2025-01-15,4,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,False
+LOG00033,TUM0003,2025-01-16,5,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,True
+LOG00034,TUM0003,2025-01-17,6,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,False
+LOG00035,TUM0003,2025-01-18,7,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,False
+LOG00036,TUM0003,2025-01-19,8,False,,,,,,,,UNKNOWN,False,False
+LOG00037,TUM0003,2025-01-20,9,True,I've been crying all night,True,False,False,False,False,False,HIGH,True,True
+LOG00038,TUM0003,2025-01-21,10,True,I've been crying all night,False,False,False,False,True,True,EMERGENCY,True,True
+LOG00039,TUM0003,2025-01-22,11,True,"Heavy bleeding, I'm scared",True,False,False,True,False,False,HIGH,True,True
+LOG00040,TUM0003,2025-01-23,12,True,I had a low fever last night,False,False,False,False,False,True,HIGH,True,True
+LOG00041,TUM0003,2025-01-24,13,True,"I don't feel well today, very tired",True,False,False,False,False,False,HIGH,True,True
+LOG00042,TUM0003,2025-01-25,14,True,I've been crying all night,False,False,False,False,False,True,HIGH,True,True
+LOG00043,TUM0004,2025-04-01,1,True,Nimekuwa nikilia usiku mzima,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00044,TUM0004,2025-04-02,2,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00045,TUM0004,2025-04-03,3,True,"Nimekwenda hospitali, walisema niko sawa",True,False,False,False,False,False,HIGH,True,True
+LOG00046,TUM0004,2025-04-04,4,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00047,TUM0004,2025-04-05,5,True,Sijui kama hii ni kawaida,False,False,False,True,False,True,HIGH,True,True
+LOG00048,TUM0004,2025-04-06,6,False,,,,,,,,UNKNOWN,False,False
+LOG00049,TUM0004,2025-04-07,7,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00050,TUM0004,2025-04-08,8,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00051,TUM0004,2025-04-09,9,False,,,,,,,,UNKNOWN,False,False
+LOG00052,TUM0004,2025-04-10,10,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00053,TUM0004,2025-04-11,11,True,Nasikia huzuni kubwa leo,False,False,False,False,False,True,HIGH,True,False
+LOG00054,TUM0004,2025-04-12,12,True,Nina harufu mbaya kutoka chini,False,False,True,False,False,False,HIGH,True,False
+LOG00055,TUM0004,2025-04-13,13,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,True,True,False,False,HIGH,True,False
+LOG00056,TUM0004,2025-04-14,14,True,Nasikia huzuni kubwa leo,False,False,False,False,True,False,MODERATE,True,True
+LOG00057,TUM0005,2025-04-24,1,True,Maumivu makali upande wa kulia,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00058,TUM0005,2025-04-25,2,True,Nimepata homa kidogo usiku,True,False,False,False,False,False,HIGH,True,False
+LOG00059,TUM0005,2025-04-26,3,True,Nimepata homa kidogo usiku,False,True,False,False,False,False,MODERATE,True,False
+LOG00060,TUM0005,2025-04-27,4,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00061,TUM0005,2025-04-28,5,True,Sijui nifanye nini sasa,True,False,True,False,False,False,EMERGENCY,True,True
+LOG00062,TUM0005,2025-04-29,6,False,,,,,,,,UNKNOWN,False,False
+LOG00063,TUM0005,2025-04-30,7,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00064,TUM0005,2025-05-01,8,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00065,TUM0005,2025-05-02,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00066,TUM0005,2025-05-03,10,False,,,,,,,,UNKNOWN,False,False
+LOG00067,TUM0005,2025-05-04,11,False,,,,,,,,UNKNOWN,False,False
+LOG00068,TUM0005,2025-05-05,12,False,,,,,,,,UNKNOWN,False,False
+LOG00069,TUM0005,2025-05-06,13,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00070,TUM0005,2025-05-07,14,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,True,HIGH,True,True
+LOG00071,TUM0006,2025-04-22,1,True,I don't know what to do now,False,False,False,False,False,True,HIGH,True,True
+LOG00072,TUM0006,2025-04-23,2,False,,,,,,,,UNKNOWN,False,False
+LOG00073,TUM0006,2025-04-24,3,True,I feel completely alone,False,False,False,True,True,False,HIGH,True,False
+LOG00074,TUM0006,2025-04-25,4,True,I feel very sad today,True,False,False,False,False,False,HIGH,True,False
+LOG00075,TUM0006,2025-04-26,5,True,My family doesn't talk about it,False,False,False,False,True,False,MODERATE,True,True
+LOG00076,TUM0006,2025-04-27,6,False,,,,,,,,UNKNOWN,False,False
+LOG00077,TUM0006,2025-04-28,7,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00078,TUM0006,2025-04-29,8,True,I don't know if this is normal or not,True,False,False,False,False,True,EMERGENCY,True,True
+LOG00079,TUM0006,2025-04-30,9,False,,,,,,,,UNKNOWN,False,False
+LOG00080,TUM0006,2025-05-01,10,True,"I can't sleep, I keep thinking about my baby",False,False,False,False,False,False,LOW,True,True
+LOG00081,TUM0006,2025-05-02,11,True,Sharp pain on my right side,False,False,False,True,False,False,MODERATE,True,False
+LOG00082,TUM0006,2025-05-03,12,True,I feel very sad today,False,False,False,False,False,False,LOW,True,False
+LOG00083,TUM0006,2025-05-04,13,True,My husband said it was God's will,False,False,True,False,False,False,HIGH,True,True
+LOG00084,TUM0006,2025-05-05,14,False,,,,,,,,UNKNOWN,False,False
+LOG00085,TUM0007,2025-01-22,1,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00086,TUM0007,2025-01-23,2,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00087,TUM0007,2025-01-24,3,True,"Sina damu tena, ninajisikia vizuri kidogo",False,True,False,False,False,False,MODERATE,True,False
+LOG00088,TUM0007,2025-01-25,4,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00089,TUM0007,2025-01-26,5,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,False
+LOG00090,TUM0007,2025-01-27,6,True,"Nimekwenda hospitali, walisema niko sawa",True,False,False,False,False,False,HIGH,True,False
+LOG00091,TUM0007,2025-01-28,7,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,False
+LOG00092,TUM0007,2025-01-29,8,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00093,TUM0007,2025-01-30,9,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,True
+LOG00094,TUM0007,2025-01-31,10,False,,,,,,,,UNKNOWN,False,False
+LOG00095,TUM0007,2025-02-01,11,False,,,,,,,,UNKNOWN,False,False
+LOG00096,TUM0007,2025-02-02,12,False,,,,,,,,UNKNOWN,False,False
+LOG00097,TUM0007,2025-02-03,13,False,,,,,,,,UNKNOWN,False,False
+LOG00098,TUM0007,2025-02-04,14,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00099,TUM0008,2025-04-30,1,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,True,HIGH,True,True
+LOG00100,TUM0008,2025-05-01,2,True,Nina harufu mbaya kutoka chini,True,False,False,False,False,False,HIGH,True,False
+LOG00101,TUM0008,2025-05-02,3,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00102,TUM0008,2025-05-03,4,True,Damu bado inatoka lakini kidogo sana,False,False,True,False,False,False,HIGH,True,False
+LOG00103,TUM0008,2025-05-04,5,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,True,HIGH,True,False
+LOG00104,TUM0008,2025-05-05,6,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00105,TUM0008,2025-05-06,7,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,True
+LOG00106,TUM0008,2025-05-07,8,False,,,,,,,,UNKNOWN,False,False
+LOG00107,TUM0008,2025-05-08,9,False,,,,,,,,UNKNOWN,False,False
+LOG00108,TUM0008,2025-05-09,10,False,,,,,,,,UNKNOWN,False,False
+LOG00109,TUM0008,2025-05-10,11,True,Maumivu makali upande wa kulia,True,False,False,False,False,False,HIGH,True,True
+LOG00110,TUM0008,2025-05-11,12,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00111,TUM0008,2025-05-12,13,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,False
+LOG00112,TUM0008,2025-05-13,14,False,,,,,,,,UNKNOWN,False,False
+LOG00113,TUM0009,2025-04-08,1,True,Sijui nifanye nini sasa,True,False,False,False,False,False,HIGH,True,False
+LOG00114,TUM0009,2025-04-09,2,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00115,TUM0009,2025-04-10,3,True,"Damu nyingi sana, ninaogopa",True,False,True,False,False,False,EMERGENCY,True,True
+LOG00116,TUM0009,2025-04-11,4,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00117,TUM0009,2025-04-12,5,True,Ninahisi maumivu kidogo tumboni,False,True,False,False,False,False,MODERATE,True,False
+LOG00118,TUM0009,2025-04-13,6,True,Ninahisi peke yangu kabisa,True,False,True,False,False,False,EMERGENCY,True,True
+LOG00119,TUM0009,2025-04-14,7,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,True
+LOG00120,TUM0009,2025-04-15,8,False,,,,,,,,UNKNOWN,False,False
+LOG00121,TUM0009,2025-04-16,9,True,Sijui nifanye nini sasa,True,False,False,False,False,False,HIGH,True,True
+LOG00122,TUM0009,2025-04-17,10,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00123,TUM0009,2025-04-18,11,False,,,,,,,,UNKNOWN,False,False
+LOG00124,TUM0009,2025-04-19,12,True,Familia yangu haisemi chochote,False,False,False,False,True,False,MODERATE,True,False
+LOG00125,TUM0009,2025-04-20,13,False,,,,,,,,UNKNOWN,False,False
+LOG00126,TUM0009,2025-04-21,14,False,,,,,,,,UNKNOWN,False,False
+LOG00127,TUM0010,2025-01-31,1,True,Damu bado inatoka lakini kidogo sana,True,False,False,False,False,False,HIGH,True,False
+LOG00128,TUM0010,2025-02-01,2,True,"Nimekwenda hospitali, walisema niko sawa",True,False,True,False,False,False,EMERGENCY,True,False
+LOG00129,TUM0010,2025-02-02,3,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00130,TUM0010,2025-02-03,4,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00131,TUM0010,2025-02-04,5,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00132,TUM0010,2025-02-05,6,True,Maumivu makali upande wa kulia,False,True,False,False,False,False,MODERATE,True,True
+LOG00133,TUM0010,2025-02-06,7,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00134,TUM0010,2025-02-07,8,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,True
+LOG00135,TUM0010,2025-02-08,9,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00136,TUM0010,2025-02-09,10,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00137,TUM0010,2025-02-10,11,False,,,,,,,,UNKNOWN,False,False
+LOG00138,TUM0010,2025-02-11,12,False,,,,,,,,UNKNOWN,False,False
+LOG00139,TUM0010,2025-02-12,13,False,,,,,,,,UNKNOWN,False,False
+LOG00140,TUM0010,2025-02-13,14,True,Sijui nifanye nini sasa,False,False,True,False,False,True,EMERGENCY,True,False
+LOG00141,TUM0011,2025-02-25,1,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00142,TUM0011,2025-02-26,2,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00143,TUM0011,2025-02-27,3,True,Damu bado inatoka lakini kidogo sana,False,False,True,True,False,False,HIGH,True,False
+LOG00144,TUM0011,2025-02-28,4,True,Ninahisi peke yangu kabisa,False,False,False,True,False,False,MODERATE,True,False
+LOG00145,TUM0011,2025-03-01,5,True,Nimekuwa nikilia usiku mzima,False,False,True,False,False,False,HIGH,True,False
+LOG00146,TUM0011,2025-03-02,6,True,Nimekuwa nikilia usiku mzima,False,False,False,True,False,False,MODERATE,True,True
+LOG00147,TUM0011,2025-03-03,7,True,Sijui kama hii ni kawaida,False,True,False,False,False,False,MODERATE,True,False
+LOG00148,TUM0011,2025-03-04,8,False,,,,,,,,UNKNOWN,False,False
+LOG00149,TUM0011,2025-03-05,9,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,True,HIGH,True,False
+LOG00150,TUM0011,2025-03-06,10,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00151,TUM0011,2025-03-07,11,False,,,,,,,,UNKNOWN,False,False
+LOG00152,TUM0011,2025-03-08,12,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00153,TUM0011,2025-03-09,13,False,,,,,,,,UNKNOWN,False,False
+LOG00154,TUM0011,2025-03-10,14,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00155,TUM0012,2025-01-14,1,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00156,TUM0012,2025-01-15,2,False,,,,,,,,UNKNOWN,False,False
+LOG00157,TUM0012,2025-01-16,3,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00158,TUM0012,2025-01-17,4,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,True
+LOG00159,TUM0012,2025-01-18,5,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,True
+LOG00160,TUM0012,2025-01-19,6,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,True
+LOG00161,TUM0012,2025-01-20,7,True,Ninahisi maumivu kidogo tumboni,True,True,False,False,False,False,EMERGENCY,True,True
+LOG00162,TUM0012,2025-01-21,8,True,"Sijalala vizuri, ninafikiri mtoto wangu",True,False,False,False,False,False,HIGH,True,True
+LOG00163,TUM0012,2025-01-22,9,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,True
+LOG00164,TUM0012,2025-01-23,10,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00165,TUM0012,2025-01-24,11,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,True
+LOG00166,TUM0012,2025-01-25,12,False,,,,,,,,UNKNOWN,False,False
+LOG00167,TUM0012,2025-01-26,13,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00168,TUM0012,2025-01-27,14,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,True
+LOG00169,TUM0013,2025-03-27,1,True,Familia yangu haisemi chochote,False,False,False,False,True,False,MODERATE,True,False
+LOG00170,TUM0013,2025-03-28,2,True,Ninahisi peke yangu kabisa,True,False,False,False,False,False,HIGH,True,False
+LOG00171,TUM0013,2025-03-29,3,True,Sijui nifanye nini sasa,False,False,False,True,False,False,MODERATE,True,False
+LOG00172,TUM0013,2025-03-30,4,True,"Sijalala vizuri, ninafikiri mtoto wangu",True,False,False,False,False,False,HIGH,True,False
+LOG00173,TUM0013,2025-03-31,5,True,"Sina damu tena, ninajisikia vizuri kidogo",False,True,False,False,False,False,MODERATE,True,True
+LOG00174,TUM0013,2025-04-01,6,True,Familia yangu haisemi chochote,False,False,False,False,True,False,MODERATE,True,False
+LOG00175,TUM0013,2025-04-02,7,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,True
+LOG00176,TUM0013,2025-04-03,8,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,True,False,MODERATE,True,False
+LOG00177,TUM0013,2025-04-04,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00178,TUM0013,2025-04-05,10,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00179,TUM0013,2025-04-06,11,False,,,,,,,,UNKNOWN,False,False
+LOG00180,TUM0013,2025-04-07,12,True,"Nimekwenda hospitali, walisema niko sawa",False,False,True,False,False,False,HIGH,True,True
+LOG00181,TUM0013,2025-04-08,13,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00182,TUM0013,2025-04-09,14,False,,,,,,,,UNKNOWN,False,False
+LOG00183,TUM0014,2025-03-19,1,True,"I don't feel well today, very tired",False,False,False,False,True,False,MODERATE,True,True
+LOG00184,TUM0014,2025-03-20,2,True,I feel completely alone,True,False,False,False,False,False,HIGH,True,False
+LOG00185,TUM0014,2025-03-21,3,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,False
+LOG00186,TUM0014,2025-03-22,4,True,My family doesn't talk about it,False,False,False,False,False,False,LOW,True,False
+LOG00187,TUM0014,2025-03-23,5,True,Sharp pain on my right side,False,False,False,True,False,False,MODERATE,True,True
+LOG00188,TUM0014,2025-03-24,6,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,False
+LOG00189,TUM0014,2025-03-25,7,False,,,,,,,,UNKNOWN,False,False
+LOG00190,TUM0014,2025-03-26,8,True,"No more bleeding, feeling slightly better",False,True,False,False,False,False,MODERATE,True,True
+LOG00191,TUM0014,2025-03-27,9,False,,,,,,,,UNKNOWN,False,False
+LOG00192,TUM0014,2025-03-28,10,True,I feel very sad today,False,False,False,False,False,False,LOW,True,False
+LOG00193,TUM0014,2025-03-29,11,True,I don't know what to do now,False,False,False,False,False,False,LOW,True,True
+LOG00194,TUM0014,2025-03-30,12,True,"I don't feel well today, very tired",False,False,False,False,False,False,LOW,True,True
+LOG00195,TUM0014,2025-03-31,13,False,,,,,,,,UNKNOWN,False,False
+LOG00196,TUM0014,2025-04-01,14,True,"I went to hospital, they said I'm okay",True,False,False,False,False,False,HIGH,True,False
+LOG00197,TUM0015,2025-03-01,1,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00198,TUM0015,2025-03-02,2,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00199,TUM0015,2025-03-03,3,True,Nimekuwa nikitapika tangu asubuhi,False,False,True,False,False,False,HIGH,True,False
+LOG00200,TUM0015,2025-03-04,4,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00201,TUM0015,2025-03-05,5,True,Familia yangu haisemi chochote,False,True,False,False,False,False,MODERATE,True,True
+LOG00202,TUM0015,2025-03-06,6,True,Maumivu makali upande wa kulia,True,False,False,False,False,False,HIGH,True,True
+LOG00203,TUM0015,2025-03-07,7,True,Nimepata homa kidogo usiku,False,True,False,False,False,False,MODERATE,True,False
+LOG00204,TUM0015,2025-03-08,8,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,True,False,MODERATE,True,False
+LOG00205,TUM0015,2025-03-09,9,True,Sijui kama hii ni kawaida,True,True,False,False,True,False,EMERGENCY,True,True
+LOG00206,TUM0015,2025-03-10,10,False,,,,,,,,UNKNOWN,False,False
+LOG00207,TUM0015,2025-03-11,11,False,,,,,,,,UNKNOWN,False,False
+LOG00208,TUM0015,2025-03-12,12,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,True,False,False,MODERATE,True,False
+LOG00209,TUM0015,2025-03-13,13,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,True,True,False,HIGH,True,True
+LOG00210,TUM0015,2025-03-14,14,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00211,TUM0016,2025-04-02,1,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00212,TUM0016,2025-04-03,2,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00213,TUM0016,2025-04-04,3,True,Nimepata homa kidogo usiku,True,False,False,False,False,False,HIGH,True,True
+LOG00214,TUM0016,2025-04-05,4,True,Nimekuwa nikilia usiku mzima,False,True,True,False,False,False,EMERGENCY,True,False
+LOG00215,TUM0016,2025-04-06,5,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,True,False,MODERATE,True,False
+LOG00216,TUM0016,2025-04-07,6,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00217,TUM0016,2025-04-08,7,False,,,,,,,,UNKNOWN,False,False
+LOG00218,TUM0016,2025-04-09,8,True,Nina harufu mbaya kutoka chini,True,False,False,False,False,False,HIGH,True,True
+LOG00219,TUM0016,2025-04-10,9,False,,,,,,,,UNKNOWN,False,False
+LOG00220,TUM0016,2025-04-11,10,False,,,,,,,,UNKNOWN,False,False
+LOG00221,TUM0016,2025-04-12,11,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,False
+LOG00222,TUM0016,2025-04-13,12,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00223,TUM0016,2025-04-14,13,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00224,TUM0016,2025-04-15,14,True,Damu bado inatoka lakini kidogo sana,True,False,False,False,False,False,HIGH,True,True
+LOG00225,TUM0017,2025-04-27,1,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00226,TUM0017,2025-04-28,2,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,True,False,False,True,False,HIGH,True,False
+LOG00227,TUM0017,2025-04-29,3,True,"Sina damu tena, ninajisikia vizuri kidogo",True,True,False,False,False,False,EMERGENCY,True,False
+LOG00228,TUM0017,2025-04-30,4,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00229,TUM0017,2025-05-01,5,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,True,False,False,MODERATE,True,False
+LOG00230,TUM0017,2025-05-02,6,True,Maumivu makali upande wa kulia,True,False,False,False,True,False,EMERGENCY,True,True
+LOG00231,TUM0017,2025-05-03,7,False,,,,,,,,UNKNOWN,False,False
+LOG00232,TUM0017,2025-05-04,8,False,,,,,,,,UNKNOWN,False,False
+LOG00233,TUM0017,2025-05-05,9,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,True,True,False,HIGH,True,True
+LOG00234,TUM0017,2025-05-06,10,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00235,TUM0017,2025-05-07,11,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,True
+LOG00236,TUM0017,2025-05-08,12,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00237,TUM0017,2025-05-09,13,True,Nimekuwa nikilia usiku mzima,True,False,False,True,False,False,HIGH,True,True
+LOG00238,TUM0017,2025-05-10,14,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00239,TUM0018,2025-03-13,1,True,Nasikia huzuni kubwa leo,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00240,TUM0018,2025-03-14,2,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,True,False,False,HIGH,True,False
+LOG00241,TUM0018,2025-03-15,3,True,Familia yangu haisemi chochote,False,False,False,False,True,False,MODERATE,True,False
+LOG00242,TUM0018,2025-03-16,4,True,"Damu nyingi sana, ninaogopa",True,False,False,False,False,False,HIGH,True,True
+LOG00243,TUM0018,2025-03-17,5,True,"Damu nyingi sana, ninaogopa",False,False,False,False,True,False,MODERATE,True,True
+LOG00244,TUM0018,2025-03-18,6,True,Nasikia huzuni kubwa leo,False,False,False,False,True,False,MODERATE,True,True
+LOG00245,TUM0018,2025-03-19,7,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,True,False,MODERATE,True,False
+LOG00246,TUM0018,2025-03-20,8,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00247,TUM0018,2025-03-21,9,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,True
+LOG00248,TUM0018,2025-03-22,10,False,,,,,,,,UNKNOWN,False,False
+LOG00249,TUM0018,2025-03-23,11,False,,,,,,,,UNKNOWN,False,False
+LOG00250,TUM0018,2025-03-24,12,True,"Damu nyingi sana, ninaogopa",False,False,False,False,True,False,MODERATE,True,True
+LOG00251,TUM0018,2025-03-25,13,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00252,TUM0018,2025-03-26,14,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00253,TUM0019,2025-04-12,1,True,"I can't sleep, I keep thinking about my baby",False,False,False,False,False,False,LOW,True,False
+LOG00254,TUM0019,2025-04-13,2,True,"I went to hospital, they said I'm okay",True,False,False,False,False,False,HIGH,True,True
+LOG00255,TUM0019,2025-04-14,3,False,,,,,,,,UNKNOWN,False,False
+LOG00256,TUM0019,2025-04-15,4,True,I don't know if this is normal or not,False,False,False,False,False,False,LOW,True,True
+LOG00257,TUM0019,2025-04-16,5,True,"I went to hospital, they said I'm okay",False,False,False,False,False,True,HIGH,True,False
+LOG00258,TUM0019,2025-04-17,6,False,,,,,,,,UNKNOWN,False,False
+LOG00259,TUM0019,2025-04-18,7,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,False
+LOG00260,TUM0019,2025-04-19,8,False,,,,,,,,UNKNOWN,False,False
+LOG00261,TUM0019,2025-04-20,9,False,,,,,,,,UNKNOWN,False,False
+LOG00262,TUM0019,2025-04-21,10,True,"I don't feel well today, very tired",False,False,True,False,False,False,HIGH,True,False
+LOG00263,TUM0019,2025-04-22,11,True,"I can't sleep, I keep thinking about my baby",False,False,False,False,False,False,LOW,True,True
+LOG00264,TUM0019,2025-04-23,12,True,I don't know if this is normal or not,False,False,False,False,True,False,MODERATE,True,True
+LOG00265,TUM0019,2025-04-24,13,True,I had a low fever last night,True,False,False,False,True,False,EMERGENCY,True,True
+LOG00266,TUM0019,2025-04-25,14,False,,,,,,,,UNKNOWN,False,False
+LOG00267,TUM0020,2025-02-13,1,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,True,HIGH,True,True
+LOG00268,TUM0020,2025-02-14,2,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00269,TUM0020,2025-02-15,3,True,Ninahisi peke yangu kabisa,False,True,True,True,False,False,EMERGENCY,True,True
+LOG00270,TUM0020,2025-02-16,4,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,False
+LOG00271,TUM0020,2025-02-17,5,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,True,HIGH,True,True
+LOG00272,TUM0020,2025-02-18,6,True,Sijui nifanye nini sasa,False,True,False,False,True,False,HIGH,True,True
+LOG00273,TUM0020,2025-02-19,7,True,Ninahisi peke yangu kabisa,False,True,False,False,False,False,MODERATE,True,True
+LOG00274,TUM0020,2025-02-20,8,True,"Damu nyingi sana, ninaogopa",False,False,False,True,False,False,MODERATE,True,True
+LOG00275,TUM0020,2025-02-21,9,False,,,,,,,,UNKNOWN,False,False
+LOG00276,TUM0020,2025-02-22,10,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00277,TUM0020,2025-02-23,11,False,,,,,,,,UNKNOWN,False,False
+LOG00278,TUM0020,2025-02-24,12,True,Sijui nifanye nini sasa,False,False,False,False,True,False,MODERATE,True,True
+LOG00279,TUM0020,2025-02-25,13,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00280,TUM0020,2025-02-26,14,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00281,TUM0021,2025-01-26,1,True,"Sijalala vizuri, ninafikiri mtoto wangu",True,False,False,False,False,False,HIGH,True,True
+LOG00282,TUM0021,2025-01-27,2,True,Sijui kama hii ni kawaida,True,False,False,False,False,True,EMERGENCY,True,False
+LOG00283,TUM0021,2025-01-28,3,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00284,TUM0021,2025-01-29,4,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00285,TUM0021,2025-01-30,5,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,True
+LOG00286,TUM0021,2025-01-31,6,False,,,,,,,,UNKNOWN,False,False
+LOG00287,TUM0021,2025-02-01,7,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,True,True,False,False,False,EMERGENCY,True,True
+LOG00288,TUM0021,2025-02-02,8,True,Sijui nifanye nini sasa,True,True,False,False,False,False,EMERGENCY,True,True
+LOG00289,TUM0021,2025-02-03,9,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00290,TUM0021,2025-02-04,10,True,Ninahisi maumivu kidogo tumboni,False,False,False,True,False,False,MODERATE,True,True
+LOG00291,TUM0021,2025-02-05,11,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00292,TUM0021,2025-02-06,12,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00293,TUM0021,2025-02-07,13,False,,,,,,,,UNKNOWN,False,False
+LOG00294,TUM0021,2025-02-08,14,False,,,,,,,,UNKNOWN,False,False
+LOG00295,TUM0022,2025-03-29,1,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,False
+LOG00296,TUM0022,2025-03-30,2,True,Still seeing some light bleeding,True,False,False,False,False,False,HIGH,True,False
+LOG00297,TUM0022,2025-03-31,3,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,False
+LOG00298,TUM0022,2025-04-01,4,True,I don't know what to do now,False,False,False,False,False,False,LOW,True,False
+LOG00299,TUM0022,2025-04-02,5,True,I don't know if this is normal or not,False,False,False,False,False,False,LOW,True,True
+LOG00300,TUM0022,2025-04-03,6,True,I had a low fever last night,False,False,False,False,False,False,LOW,True,True
+LOG00301,TUM0022,2025-04-04,7,True,"I don't feel well today, very tired",False,False,False,False,False,False,LOW,True,True
+LOG00302,TUM0022,2025-04-05,8,False,,,,,,,,UNKNOWN,False,False
+LOG00303,TUM0022,2025-04-06,9,True,I don't know if this is normal or not,False,True,False,False,False,False,MODERATE,True,True
+LOG00304,TUM0022,2025-04-07,10,False,,,,,,,,UNKNOWN,False,False
+LOG00305,TUM0022,2025-04-08,11,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,False
+LOG00306,TUM0022,2025-04-09,12,True,"There is a bad smell, I don't know if normal",False,False,False,True,False,False,MODERATE,True,True
+LOG00307,TUM0022,2025-04-10,13,True,I feel completely alone,False,False,False,False,False,False,LOW,True,True
+LOG00308,TUM0022,2025-04-11,14,True,I have some mild abdominal cramping,False,False,True,False,False,False,HIGH,True,False
+LOG00309,TUM0023,2025-03-08,1,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,True
+LOG00310,TUM0023,2025-03-09,2,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00311,TUM0023,2025-03-10,3,True,I have some mild abdominal cramping,False,False,False,False,False,False,LOW,True,False
+LOG00312,TUM0023,2025-03-11,4,True,Still seeing some light bleeding,False,False,True,False,False,False,HIGH,True,False
+LOG00313,TUM0023,2025-03-12,5,True,Sharp pain on my right side,True,False,True,False,False,False,EMERGENCY,True,True
+LOG00314,TUM0023,2025-03-13,6,True,"Heavy bleeding, I'm scared",False,False,False,False,False,False,LOW,True,True
+LOG00315,TUM0023,2025-03-14,7,False,,,,,,,,UNKNOWN,False,False
+LOG00316,TUM0023,2025-03-15,8,True,I've been crying all night,False,False,False,False,False,False,LOW,True,False
+LOG00317,TUM0023,2025-03-16,9,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,True
+LOG00318,TUM0023,2025-03-17,10,True,"I don't feel well today, very tired",False,False,False,False,True,False,MODERATE,True,False
+LOG00319,TUM0023,2025-03-18,11,True,I don't know if this is normal or not,False,False,False,True,False,False,MODERATE,True,True
+LOG00320,TUM0023,2025-03-19,12,True,"There is a bad smell, I don't know if normal",False,True,False,False,True,False,HIGH,True,True
+LOG00321,TUM0023,2025-03-20,13,False,,,,,,,,UNKNOWN,False,False
+LOG00322,TUM0023,2025-03-21,14,False,,,,,,,,UNKNOWN,False,False
+LOG00323,TUM0024,2025-01-20,1,True,"I can't sleep, I keep thinking about my baby",False,False,False,False,False,False,LOW,True,False
+LOG00324,TUM0024,2025-01-21,2,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,True
+LOG00325,TUM0024,2025-01-22,3,True,"Heavy bleeding, I'm scared",False,False,False,False,False,False,LOW,True,False
+LOG00326,TUM0024,2025-01-23,4,True,I've been crying all night,False,False,True,False,True,False,EMERGENCY,True,False
+LOG00327,TUM0024,2025-01-24,5,True,"I don't feel well today, very tired",False,False,False,False,False,False,LOW,True,True
+LOG00328,TUM0024,2025-01-25,6,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,True
+LOG00329,TUM0024,2025-01-26,7,False,,,,,,,,UNKNOWN,False,False
+LOG00330,TUM0024,2025-01-27,8,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00331,TUM0024,2025-01-28,9,True,I feel completely alone,False,False,False,False,False,False,LOW,True,True
+LOG00332,TUM0024,2025-01-29,10,True,I had a low fever last night,False,False,False,False,False,True,HIGH,True,False
+LOG00333,TUM0024,2025-01-30,11,False,,,,,,,,UNKNOWN,False,False
+LOG00334,TUM0024,2025-01-31,12,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,False
+LOG00335,TUM0024,2025-02-01,13,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,True
+LOG00336,TUM0024,2025-02-02,14,True,I feel completely alone,False,False,False,False,True,False,MODERATE,True,True
+LOG00337,TUM0025,2025-03-21,1,True,My husband said it was God's will,False,True,False,False,False,False,MODERATE,True,False
+LOG00338,TUM0025,2025-03-22,2,True,My husband said it was God's will,True,False,True,False,False,False,EMERGENCY,True,False
+LOG00339,TUM0025,2025-03-23,3,True,I feel completely alone,False,False,True,False,False,False,HIGH,True,False
+LOG00340,TUM0025,2025-03-24,4,True,"I went to hospital, they said I'm okay",False,False,False,False,True,False,MODERATE,True,False
+LOG00341,TUM0025,2025-03-25,5,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,False
+LOG00342,TUM0025,2025-03-26,6,True,I don't know what to do now,False,False,False,False,False,False,LOW,True,False
+LOG00343,TUM0025,2025-03-27,7,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,True
+LOG00344,TUM0025,2025-03-28,8,True,My family doesn't talk about it,False,True,False,False,False,False,MODERATE,True,False
+LOG00345,TUM0025,2025-03-29,9,False,,,,,,,,UNKNOWN,False,False
+LOG00346,TUM0025,2025-03-30,10,True,Still seeing some light bleeding,False,False,True,False,False,True,EMERGENCY,True,True
+LOG00347,TUM0025,2025-03-31,11,False,,,,,,,,UNKNOWN,False,False
+LOG00348,TUM0025,2025-04-01,12,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,True
+LOG00349,TUM0025,2025-04-02,13,True,I've been crying all night,False,False,False,False,False,False,LOW,True,False
+LOG00350,TUM0025,2025-04-03,14,False,,,,,,,,UNKNOWN,False,False
+LOG00351,TUM0026,2025-01-12,1,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,True
+LOG00352,TUM0026,2025-01-13,2,True,Nasikia huzuni kubwa leo,True,False,False,False,False,False,HIGH,True,False
+LOG00353,TUM0026,2025-01-14,3,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00354,TUM0026,2025-01-15,4,True,Ninahisi maumivu kidogo tumboni,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00355,TUM0026,2025-01-16,5,True,Sijui kama hii ni kawaida,False,False,False,True,False,False,MODERATE,True,True
+LOG00356,TUM0026,2025-01-17,6,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,True
+LOG00357,TUM0026,2025-01-18,7,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,True
+LOG00358,TUM0026,2025-01-19,8,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00359,TUM0026,2025-01-20,9,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00360,TUM0026,2025-01-21,10,True,"Sijahisi vizuri leo, nimechoka sana",False,False,True,False,False,False,HIGH,True,True
+LOG00361,TUM0026,2025-01-22,11,False,,,,,,,,UNKNOWN,False,False
+LOG00362,TUM0026,2025-01-23,12,True,"Sijahisi vizuri leo, nimechoka sana",True,True,False,False,False,False,EMERGENCY,True,True
+LOG00363,TUM0026,2025-01-24,13,False,,,,,,,,UNKNOWN,False,False
+LOG00364,TUM0026,2025-01-25,14,False,,,,,,,,UNKNOWN,False,False
+LOG00365,TUM0027,2025-02-19,1,True,Damu bado inatoka lakini kidogo sana,False,False,True,False,True,False,EMERGENCY,True,True
+LOG00366,TUM0027,2025-02-20,2,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00367,TUM0027,2025-02-21,3,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00368,TUM0027,2025-02-22,4,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00369,TUM0027,2025-02-23,5,True,Nasikia huzuni kubwa leo,True,False,False,False,False,False,HIGH,True,False
+LOG00370,TUM0027,2025-02-24,6,True,Nimepata homa kidogo usiku,False,False,True,False,False,False,HIGH,True,True
+LOG00371,TUM0027,2025-02-25,7,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00372,TUM0027,2025-02-26,8,True,Sijui nifanye nini sasa,True,False,False,True,False,False,HIGH,True,True
+LOG00373,TUM0027,2025-02-27,9,True,"Damu nyingi sana, ninaogopa",False,True,False,False,False,False,MODERATE,True,False
+LOG00374,TUM0027,2025-02-28,10,True,"Damu nyingi sana, ninaogopa",False,True,False,False,False,False,MODERATE,True,True
+LOG00375,TUM0027,2025-03-01,11,True,Familia yangu haisemi chochote,False,False,True,False,False,False,HIGH,True,True
+LOG00376,TUM0027,2025-03-02,12,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00377,TUM0027,2025-03-03,13,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00378,TUM0027,2025-03-04,14,False,,,,,,,,UNKNOWN,False,False
+LOG00379,TUM0028,2025-03-22,1,True,Maumivu makali upande wa kulia,False,False,False,False,False,True,HIGH,True,False
+LOG00380,TUM0028,2025-03-23,2,False,,,,,,,,UNKNOWN,False,False
+LOG00381,TUM0028,2025-03-24,3,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00382,TUM0028,2025-03-25,4,True,Nimekuwa nikilia usiku mzima,False,True,False,False,False,False,MODERATE,True,True
+LOG00383,TUM0028,2025-03-26,5,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00384,TUM0028,2025-03-27,6,True,Ninahisi peke yangu kabisa,True,False,True,False,False,False,EMERGENCY,True,False
+LOG00385,TUM0028,2025-03-28,7,False,,,,,,,,UNKNOWN,False,False
+LOG00386,TUM0028,2025-03-29,8,True,Sijui nifanye nini sasa,False,True,False,False,False,False,MODERATE,True,True
+LOG00387,TUM0028,2025-03-30,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,True,False,False,MODERATE,True,True
+LOG00388,TUM0028,2025-03-31,10,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00389,TUM0028,2025-04-01,11,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00390,TUM0028,2025-04-02,12,False,,,,,,,,UNKNOWN,False,False
+LOG00391,TUM0028,2025-04-03,13,True,Nina harufu mbaya kutoka chini,False,False,False,False,True,True,EMERGENCY,True,True
+LOG00392,TUM0028,2025-04-04,14,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00393,TUM0029,2025-03-03,1,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00394,TUM0029,2025-03-04,2,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00395,TUM0029,2025-03-05,3,True,Familia yangu haisemi chochote,True,False,False,True,False,False,HIGH,True,False
+LOG00396,TUM0029,2025-03-06,4,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00397,TUM0029,2025-03-07,5,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00398,TUM0029,2025-03-08,6,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00399,TUM0029,2025-03-09,7,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00400,TUM0029,2025-03-10,8,True,Nasikia huzuni kubwa leo,False,True,True,False,False,False,EMERGENCY,True,True
+LOG00401,TUM0029,2025-03-11,9,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00402,TUM0029,2025-03-12,10,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00403,TUM0029,2025-03-13,11,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00404,TUM0029,2025-03-14,12,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00405,TUM0029,2025-03-15,13,False,,,,,,,,UNKNOWN,False,False
+LOG00406,TUM0029,2025-03-16,14,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,True,False,False,False,False,MODERATE,True,False
+LOG00407,TUM0030,2025-03-20,1,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00408,TUM0030,2025-03-21,2,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00409,TUM0030,2025-03-22,3,True,Nimekuwa nikitapika tangu asubuhi,False,True,False,False,False,False,MODERATE,True,False
+LOG00410,TUM0030,2025-03-23,4,True,Maumivu makali upande wa kulia,True,True,False,False,False,False,EMERGENCY,True,True
+LOG00411,TUM0030,2025-03-24,5,False,,,,,,,,UNKNOWN,False,False
+LOG00412,TUM0030,2025-03-25,6,True,"Nimekwenda hospitali, walisema niko sawa",False,True,False,False,False,False,MODERATE,True,False
+LOG00413,TUM0030,2025-03-26,7,False,,,,,,,,UNKNOWN,False,False
+LOG00414,TUM0030,2025-03-27,8,False,,,,,,,,UNKNOWN,False,False
+LOG00415,TUM0030,2025-03-28,9,False,,,,,,,,UNKNOWN,False,False
+LOG00416,TUM0030,2025-03-29,10,False,,,,,,,,UNKNOWN,False,False
+LOG00417,TUM0030,2025-03-30,11,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00418,TUM0030,2025-03-31,12,False,,,,,,,,UNKNOWN,False,False
+LOG00419,TUM0030,2025-04-01,13,False,,,,,,,,UNKNOWN,False,False
+LOG00420,TUM0030,2025-04-02,14,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00421,TUM0031,2025-04-15,1,True,Nimepata homa kidogo usiku,True,False,False,True,False,False,HIGH,True,False
+LOG00422,TUM0031,2025-04-16,2,True,Nimekuwa nikitapika tangu asubuhi,True,False,False,False,False,False,HIGH,True,False
+LOG00423,TUM0031,2025-04-17,3,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00424,TUM0031,2025-04-18,4,True,Ninahisi peke yangu kabisa,True,False,False,True,False,False,HIGH,True,False
+LOG00425,TUM0031,2025-04-19,5,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,True
+LOG00426,TUM0031,2025-04-20,6,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,True,False,False,False,False,MODERATE,True,False
+LOG00427,TUM0031,2025-04-21,7,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,True,False,MODERATE,True,True
+LOG00428,TUM0031,2025-04-22,8,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,True
+LOG00429,TUM0031,2025-04-23,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00430,TUM0031,2025-04-24,10,False,,,,,,,,UNKNOWN,False,False
+LOG00431,TUM0031,2025-04-25,11,False,,,,,,,,UNKNOWN,False,False
+LOG00432,TUM0031,2025-04-26,12,True,Familia yangu haisemi chochote,False,False,False,False,False,True,HIGH,True,True
+LOG00433,TUM0031,2025-04-27,13,False,,,,,,,,UNKNOWN,False,False
+LOG00434,TUM0031,2025-04-28,14,False,,,,,,,,UNKNOWN,False,False
+LOG00435,TUM0032,2025-03-26,1,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,True
+LOG00436,TUM0032,2025-03-27,2,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,False
+LOG00437,TUM0032,2025-03-28,3,True,I don't know if this is normal or not,True,False,False,False,False,False,HIGH,True,False
+LOG00438,TUM0032,2025-03-29,4,True,"Heavy bleeding, I'm scared",False,False,False,False,False,False,LOW,True,False
+LOG00439,TUM0032,2025-03-30,5,True,"I went to hospital, they said I'm okay",False,False,False,False,False,False,LOW,True,True
+LOG00440,TUM0032,2025-03-31,6,True,I feel very sad today,False,False,False,False,False,False,LOW,True,False
+LOG00441,TUM0032,2025-04-01,7,True,I had a low fever last night,False,False,False,False,False,False,LOW,True,True
+LOG00442,TUM0032,2025-04-02,8,True,I had a low fever last night,True,False,False,True,False,False,HIGH,True,True
+LOG00443,TUM0032,2025-04-03,9,True,"Heavy bleeding, I'm scared",True,False,False,False,False,False,HIGH,True,True
+LOG00444,TUM0032,2025-04-04,10,False,,,,,,,,UNKNOWN,False,False
+LOG00445,TUM0032,2025-04-05,11,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00446,TUM0032,2025-04-06,12,True,My family doesn't talk about it,False,False,False,False,False,False,LOW,True,True
+LOG00447,TUM0032,2025-04-07,13,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00448,TUM0032,2025-04-08,14,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00449,TUM0033,2025-01-25,1,True,My family doesn't talk about it,True,False,False,False,True,False,EMERGENCY,True,False
+LOG00450,TUM0033,2025-01-26,2,True,"No more bleeding, feeling slightly better",True,False,False,False,False,False,HIGH,True,False
+LOG00451,TUM0033,2025-01-27,3,True,I've been vomiting since morning,False,False,False,False,False,False,LOW,True,False
+LOG00452,TUM0033,2025-01-28,4,True,I have some mild abdominal cramping,False,False,False,False,False,False,LOW,True,True
+LOG00453,TUM0033,2025-01-29,5,False,,,,,,,,UNKNOWN,False,False
+LOG00454,TUM0033,2025-01-30,6,True,I have some mild abdominal cramping,False,False,False,False,True,False,MODERATE,True,True
+LOG00455,TUM0033,2025-01-31,7,True,"Heavy bleeding, I'm scared",False,False,False,False,False,False,LOW,True,True
+LOG00456,TUM0033,2025-02-01,8,True,"I don't feel well today, very tired",True,False,False,False,False,False,HIGH,True,False
+LOG00457,TUM0033,2025-02-02,9,False,,,,,,,,UNKNOWN,False,False
+LOG00458,TUM0033,2025-02-03,10,True,I've been vomiting since morning,False,False,False,False,False,False,LOW,True,True
+LOG00459,TUM0033,2025-02-04,11,True,Sharp pain on my right side,False,False,False,True,False,False,MODERATE,True,True
+LOG00460,TUM0033,2025-02-05,12,True,I have some mild abdominal cramping,False,True,False,False,False,False,MODERATE,True,True
+LOG00461,TUM0033,2025-02-06,13,True,"Heavy bleeding, I'm scared",True,False,True,True,False,False,EMERGENCY,True,True
+LOG00462,TUM0033,2025-02-07,14,True,Still seeing some light bleeding,False,True,False,False,False,False,MODERATE,True,True
+LOG00463,TUM0034,2025-02-28,1,True,Nasikia huzuni kubwa leo,False,True,False,False,False,False,MODERATE,True,False
+LOG00464,TUM0034,2025-03-01,2,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,False
+LOG00465,TUM0034,2025-03-02,3,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,True
+LOG00466,TUM0034,2025-03-03,4,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00467,TUM0034,2025-03-04,5,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,True,False,False,MODERATE,True,True
+LOG00468,TUM0034,2025-03-05,6,True,Nimepata homa kidogo usiku,False,False,False,False,True,False,MODERATE,True,True
+LOG00469,TUM0034,2025-03-06,7,False,,,,,,,,UNKNOWN,False,False
+LOG00470,TUM0034,2025-03-07,8,True,Ninahisi peke yangu kabisa,True,True,False,True,False,False,EMERGENCY,True,True
+LOG00471,TUM0034,2025-03-08,9,False,,,,,,,,UNKNOWN,False,False
+LOG00472,TUM0034,2025-03-09,10,True,Nimepata homa kidogo usiku,False,False,True,False,False,False,HIGH,True,True
+LOG00473,TUM0034,2025-03-10,11,True,Maumivu makali upande wa kulia,False,False,False,False,False,True,HIGH,True,True
+LOG00474,TUM0034,2025-03-11,12,False,,,,,,,,UNKNOWN,False,False
+LOG00475,TUM0034,2025-03-12,13,False,,,,,,,,UNKNOWN,False,False
+LOG00476,TUM0034,2025-03-13,14,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00477,TUM0035,2025-04-04,1,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00478,TUM0035,2025-04-05,2,True,Nasikia huzuni kubwa leo,True,False,False,False,False,False,HIGH,True,False
+LOG00479,TUM0035,2025-04-06,3,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,False
+LOG00480,TUM0035,2025-04-07,4,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00481,TUM0035,2025-04-08,5,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00482,TUM0035,2025-04-09,6,False,,,,,,,,UNKNOWN,False,False
+LOG00483,TUM0035,2025-04-10,7,False,,,,,,,,UNKNOWN,False,False
+LOG00484,TUM0035,2025-04-11,8,False,,,,,,,,UNKNOWN,False,False
+LOG00485,TUM0035,2025-04-12,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00486,TUM0035,2025-04-13,10,False,,,,,,,,UNKNOWN,False,False
+LOG00487,TUM0035,2025-04-14,11,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00488,TUM0035,2025-04-15,12,True,Familia yangu haisemi chochote,False,False,True,True,False,False,HIGH,True,True
+LOG00489,TUM0035,2025-04-16,13,False,,,,,,,,UNKNOWN,False,False
+LOG00490,TUM0035,2025-04-17,14,False,,,,,,,,UNKNOWN,False,False
+LOG00491,TUM0036,2025-03-13,1,True,Damu bado inatoka lakini kidogo sana,False,False,True,False,False,False,HIGH,True,False
+LOG00492,TUM0036,2025-03-14,2,True,Nimekuwa nikilia usiku mzima,True,False,False,False,False,False,HIGH,True,True
+LOG00493,TUM0036,2025-03-15,3,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00494,TUM0036,2025-03-16,4,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00495,TUM0036,2025-03-17,5,False,,,,,,,,UNKNOWN,False,False
+LOG00496,TUM0036,2025-03-18,6,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00497,TUM0036,2025-03-19,7,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,True,False,False,False,HIGH,True,False
+LOG00498,TUM0036,2025-03-20,8,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00499,TUM0036,2025-03-21,9,True,Ninahisi peke yangu kabisa,True,False,False,False,False,False,HIGH,True,True
+LOG00500,TUM0036,2025-03-22,10,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00501,TUM0036,2025-03-23,11,True,Maumivu makali upande wa kulia,False,False,False,False,True,False,MODERATE,True,True
+LOG00502,TUM0036,2025-03-24,12,True,Ninahisi maumivu kidogo tumboni,True,False,False,False,False,False,HIGH,True,True
+LOG00503,TUM0036,2025-03-25,13,False,,,,,,,,UNKNOWN,False,False
+LOG00504,TUM0036,2025-03-26,14,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00505,TUM0037,2025-03-23,1,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,True,False,False,False,HIGH,True,False
+LOG00506,TUM0037,2025-03-24,2,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00507,TUM0037,2025-03-25,3,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,True,False,False,False,HIGH,True,False
+LOG00508,TUM0037,2025-03-26,4,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00509,TUM0037,2025-03-27,5,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00510,TUM0037,2025-03-28,6,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00511,TUM0037,2025-03-29,7,True,Familia yangu haisemi chochote,False,True,False,False,False,False,MODERATE,True,False
+LOG00512,TUM0037,2025-03-30,8,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,True
+LOG00513,TUM0037,2025-03-31,9,False,,,,,,,,UNKNOWN,False,False
+LOG00514,TUM0037,2025-04-01,10,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00515,TUM0037,2025-04-02,11,False,,,,,,,,UNKNOWN,False,False
+LOG00516,TUM0037,2025-04-03,12,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00517,TUM0037,2025-04-04,13,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00518,TUM0037,2025-04-05,14,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,True,False,MODERATE,True,False
+LOG00519,TUM0038,2025-01-09,1,True,"I don't feel well today, very tired",False,False,False,False,False,True,HIGH,True,False
+LOG00520,TUM0038,2025-01-10,2,True,I've been crying all night,True,False,False,False,False,False,HIGH,True,False
+LOG00521,TUM0038,2025-01-11,3,False,,,,,,,,UNKNOWN,False,False
+LOG00522,TUM0038,2025-01-12,4,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,False
+LOG00523,TUM0038,2025-01-13,5,False,,,,,,,,UNKNOWN,False,False
+LOG00524,TUM0038,2025-01-14,6,True,I don't know what to do now,False,True,False,False,False,False,MODERATE,True,True
+LOG00525,TUM0038,2025-01-15,7,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00526,TUM0038,2025-01-16,8,True,I had a low fever last night,False,False,False,True,False,False,MODERATE,True,True
+LOG00527,TUM0038,2025-01-17,9,True,"I went to hospital, they said I'm okay",False,False,False,False,False,False,LOW,True,True
+LOG00528,TUM0038,2025-01-18,10,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,True
+LOG00529,TUM0038,2025-01-19,11,True,I feel completely alone,False,False,True,False,True,False,EMERGENCY,True,True
+LOG00530,TUM0038,2025-01-20,12,True,I have some mild abdominal cramping,False,False,False,False,False,False,LOW,True,True
+LOG00531,TUM0038,2025-01-21,13,True,Still seeing some light bleeding,False,False,False,True,False,False,MODERATE,True,True
+LOG00532,TUM0038,2025-01-22,14,True,"There is a bad smell, I don't know if normal",False,False,False,True,True,False,HIGH,True,False
+LOG00533,TUM0039,2025-04-01,1,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,True
+LOG00534,TUM0039,2025-04-02,2,True,"Heavy bleeding, I'm scared",True,False,True,False,False,False,EMERGENCY,True,True
+LOG00535,TUM0039,2025-04-03,3,True,I've been crying all night,True,False,False,False,True,False,EMERGENCY,True,False
+LOG00536,TUM0039,2025-04-04,4,True,I've been crying all night,False,False,False,False,False,False,LOW,True,False
+LOG00537,TUM0039,2025-04-05,5,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,False
+LOG00538,TUM0039,2025-04-06,6,False,,,,,,,,UNKNOWN,False,False
+LOG00539,TUM0039,2025-04-07,7,True,My family doesn't talk about it,True,False,False,False,False,False,HIGH,True,True
+LOG00540,TUM0039,2025-04-08,8,True,I don't know if this is normal or not,False,False,False,False,False,False,LOW,True,True
+LOG00541,TUM0039,2025-04-09,9,True,"There is a bad smell, I don't know if normal",True,False,False,False,False,True,EMERGENCY,True,True
+LOG00542,TUM0039,2025-04-10,10,False,,,,,,,,UNKNOWN,False,False
+LOG00543,TUM0039,2025-04-11,11,False,,,,,,,,UNKNOWN,False,False
+LOG00544,TUM0039,2025-04-12,12,True,"I went to hospital, they said I'm okay",False,True,False,False,False,False,MODERATE,True,True
+LOG00545,TUM0039,2025-04-13,13,False,,,,,,,,UNKNOWN,False,False
+LOG00546,TUM0039,2025-04-14,14,False,,,,,,,,UNKNOWN,False,False
+LOG00547,TUM0040,2025-04-01,1,True,"I went to hospital, they said I'm okay",False,False,False,False,True,False,MODERATE,True,False
+LOG00548,TUM0040,2025-04-02,2,True,"There is a bad smell, I don't know if normal",True,False,False,True,False,False,HIGH,True,False
+LOG00549,TUM0040,2025-04-03,3,True,My family doesn't talk about it,False,False,False,False,False,True,HIGH,True,True
+LOG00550,TUM0040,2025-04-04,4,True,Still seeing some light bleeding,False,False,False,False,False,False,LOW,True,False
+LOG00551,TUM0040,2025-04-05,5,False,,,,,,,,UNKNOWN,False,False
+LOG00552,TUM0040,2025-04-06,6,True,I've been crying all night,True,False,False,False,False,False,HIGH,True,True
+LOG00553,TUM0040,2025-04-07,7,True,Still seeing some light bleeding,False,True,False,False,False,False,MODERATE,True,True
+LOG00554,TUM0040,2025-04-08,8,True,My husband said it was God's will,False,True,False,False,False,False,MODERATE,True,False
+LOG00555,TUM0040,2025-04-09,9,True,I've been vomiting since morning,False,False,True,False,False,False,HIGH,True,True
+LOG00556,TUM0040,2025-04-10,10,True,I don't know what to do now,False,False,False,False,False,True,HIGH,True,True
+LOG00557,TUM0040,2025-04-11,11,True,I had a low fever last night,False,False,False,False,False,False,LOW,True,True
+LOG00558,TUM0040,2025-04-12,12,False,,,,,,,,UNKNOWN,False,False
+LOG00559,TUM0040,2025-04-13,13,True,"I can't sleep, I keep thinking about my baby",True,True,False,True,False,False,EMERGENCY,True,True
+LOG00560,TUM0040,2025-04-14,14,True,I don't know what to do now,False,False,False,False,False,False,LOW,True,True
+LOG00561,TUM0041,2025-03-16,1,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00562,TUM0041,2025-03-17,2,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,True
+LOG00563,TUM0041,2025-03-18,3,True,Ninahisi peke yangu kabisa,True,False,False,False,True,False,EMERGENCY,True,False
+LOG00564,TUM0041,2025-03-19,4,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00565,TUM0041,2025-03-20,5,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00566,TUM0041,2025-03-21,6,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00567,TUM0041,2025-03-22,7,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,False
+LOG00568,TUM0041,2025-03-23,8,True,Ninahisi peke yangu kabisa,False,True,False,False,False,False,MODERATE,True,False
+LOG00569,TUM0041,2025-03-24,9,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,True
+LOG00570,TUM0041,2025-03-25,10,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00571,TUM0041,2025-03-26,11,False,,,,,,,,UNKNOWN,False,False
+LOG00572,TUM0041,2025-03-27,12,False,,,,,,,,UNKNOWN,False,False
+LOG00573,TUM0041,2025-03-28,13,False,,,,,,,,UNKNOWN,False,False
+LOG00574,TUM0041,2025-03-29,14,False,,,,,,,,UNKNOWN,False,False
+LOG00575,TUM0042,2025-03-27,1,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,True,False,MODERATE,True,True
+LOG00576,TUM0042,2025-03-28,2,True,"Nimekwenda hospitali, walisema niko sawa",False,True,False,True,False,False,HIGH,True,False
+LOG00577,TUM0042,2025-03-29,3,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00578,TUM0042,2025-03-30,4,True,Ninahisi peke yangu kabisa,False,False,False,True,True,False,HIGH,True,False
+LOG00579,TUM0042,2025-03-31,5,False,,,,,,,,UNKNOWN,False,False
+LOG00580,TUM0042,2025-04-01,6,True,Nina harufu mbaya kutoka chini,True,False,False,False,False,False,HIGH,True,True
+LOG00581,TUM0042,2025-04-02,7,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,True,False,MODERATE,True,False
+LOG00582,TUM0042,2025-04-03,8,True,Ninahisi peke yangu kabisa,False,False,True,True,False,False,HIGH,True,False
+LOG00583,TUM0042,2025-04-04,9,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00584,TUM0042,2025-04-05,10,True,Sijui kama hii ni kawaida,False,False,False,True,False,False,MODERATE,True,False
+LOG00585,TUM0042,2025-04-06,11,False,,,,,,,,UNKNOWN,False,False
+LOG00586,TUM0042,2025-04-07,12,True,Sijui kama hii ni kawaida,True,False,False,False,False,False,HIGH,True,True
+LOG00587,TUM0042,2025-04-08,13,True,Nina harufu mbaya kutoka chini,False,False,False,False,True,False,MODERATE,True,True
+LOG00588,TUM0042,2025-04-09,14,True,Maumivu makali upande wa kulia,False,False,True,False,False,False,HIGH,True,True
+LOG00589,TUM0043,2025-02-05,1,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,False
+LOG00590,TUM0043,2025-02-06,2,True,"Damu nyingi sana, ninaogopa",False,False,False,False,True,False,MODERATE,True,False
+LOG00591,TUM0043,2025-02-07,3,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00592,TUM0043,2025-02-08,4,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00593,TUM0043,2025-02-09,5,False,,,,,,,,UNKNOWN,False,False
+LOG00594,TUM0043,2025-02-10,6,False,,,,,,,,UNKNOWN,False,False
+LOG00595,TUM0043,2025-02-11,7,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,True
+LOG00596,TUM0043,2025-02-12,8,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00597,TUM0043,2025-02-13,9,True,Nimekuwa nikitapika tangu asubuhi,True,False,False,False,False,False,HIGH,True,True
+LOG00598,TUM0043,2025-02-14,10,True,Nimekuwa nikilia usiku mzima,False,False,True,True,True,False,EMERGENCY,True,True
+LOG00599,TUM0043,2025-02-15,11,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,True,True,False,HIGH,True,False
+LOG00600,TUM0043,2025-02-16,12,True,Nina harufu mbaya kutoka chini,False,True,False,False,False,False,MODERATE,True,False
+LOG00601,TUM0043,2025-02-17,13,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00602,TUM0043,2025-02-18,14,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,True,False,MODERATE,True,True
+LOG00603,TUM0044,2025-03-06,1,True,"I don't feel well today, very tired",True,True,False,False,False,False,EMERGENCY,True,True
+LOG00604,TUM0044,2025-03-07,2,True,Sharp pain on my right side,True,False,False,False,True,False,EMERGENCY,True,False
+LOG00605,TUM0044,2025-03-08,3,True,"I went to hospital, they said I'm okay",False,False,True,True,False,False,HIGH,True,False
+LOG00606,TUM0044,2025-03-09,4,True,I had a low fever last night,False,False,False,False,False,False,LOW,True,False
+LOG00607,TUM0044,2025-03-10,5,True,I don't know if this is normal or not,False,False,False,False,False,False,LOW,True,True
+LOG00608,TUM0044,2025-03-11,6,True,I don't know if this is normal or not,False,True,False,False,True,False,HIGH,True,False
+LOG00609,TUM0044,2025-03-12,7,True,I feel very sad today,True,False,False,False,False,False,HIGH,True,True
+LOG00610,TUM0044,2025-03-13,8,False,,,,,,,,UNKNOWN,False,False
+LOG00611,TUM0044,2025-03-14,9,True,I don't know what to do now,False,True,True,False,False,False,EMERGENCY,True,False
+LOG00612,TUM0044,2025-03-15,10,True,Still seeing some light bleeding,False,False,False,True,False,False,MODERATE,True,True
+LOG00613,TUM0044,2025-03-16,11,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,False
+LOG00614,TUM0044,2025-03-17,12,True,"Heavy bleeding, I'm scared",True,False,False,False,True,False,EMERGENCY,True,True
+LOG00615,TUM0044,2025-03-18,13,True,"I don't feel well today, very tired",False,False,False,False,False,False,LOW,True,True
+LOG00616,TUM0044,2025-03-19,14,True,"I can't sleep, I keep thinking about my baby",False,True,False,False,False,False,MODERATE,True,True
+LOG00617,TUM0045,2025-04-04,1,False,,,,,,,,UNKNOWN,False,False
+LOG00618,TUM0045,2025-04-05,2,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00619,TUM0045,2025-04-06,3,True,"Sijalala vizuri, ninafikiri mtoto wangu",True,False,False,False,False,False,HIGH,True,False
+LOG00620,TUM0045,2025-04-07,4,True,Familia yangu haisemi chochote,False,True,False,True,False,False,HIGH,True,False
+LOG00621,TUM0045,2025-04-08,5,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00622,TUM0045,2025-04-09,6,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,True
+LOG00623,TUM0045,2025-04-10,7,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00624,TUM0045,2025-04-11,8,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00625,TUM0045,2025-04-12,9,False,,,,,,,,UNKNOWN,False,False
+LOG00626,TUM0045,2025-04-13,10,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,False
+LOG00627,TUM0045,2025-04-14,11,False,,,,,,,,UNKNOWN,False,False
+LOG00628,TUM0045,2025-04-15,12,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00629,TUM0045,2025-04-16,13,False,,,,,,,,UNKNOWN,False,False
+LOG00630,TUM0045,2025-04-17,14,False,,,,,,,,UNKNOWN,False,False
+LOG00631,TUM0046,2025-01-07,1,True,Nimepata homa kidogo usiku,True,False,False,False,False,False,HIGH,True,False
+LOG00632,TUM0046,2025-01-08,2,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,False
+LOG00633,TUM0046,2025-01-09,3,False,,,,,,,,UNKNOWN,False,False
+LOG00634,TUM0046,2025-01-10,4,True,Nina harufu mbaya kutoka chini,True,False,True,False,False,False,EMERGENCY,True,False
+LOG00635,TUM0046,2025-01-11,5,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00636,TUM0046,2025-01-12,6,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00637,TUM0046,2025-01-13,7,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,True
+LOG00638,TUM0046,2025-01-14,8,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00639,TUM0046,2025-01-15,9,True,Nimepata homa kidogo usiku,False,True,False,False,False,False,MODERATE,True,True
+LOG00640,TUM0046,2025-01-16,10,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00641,TUM0046,2025-01-17,11,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00642,TUM0046,2025-01-18,12,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00643,TUM0046,2025-01-19,13,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,True
+LOG00644,TUM0046,2025-01-20,14,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,False
+LOG00645,TUM0047,2025-02-14,1,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00646,TUM0047,2025-02-15,2,True,Sijui nifanye nini sasa,True,False,False,False,False,False,HIGH,True,False
+LOG00647,TUM0047,2025-02-16,3,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,True
+LOG00648,TUM0047,2025-02-17,4,True,"Damu nyingi sana, ninaogopa",False,False,True,False,True,False,EMERGENCY,True,False
+LOG00649,TUM0047,2025-02-18,5,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00650,TUM0047,2025-02-19,6,True,"Nimekwenda hospitali, walisema niko sawa",False,True,False,False,False,False,MODERATE,True,False
+LOG00651,TUM0047,2025-02-20,7,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,True
+LOG00652,TUM0047,2025-02-21,8,True,Nina harufu mbaya kutoka chini,False,False,False,True,False,False,MODERATE,True,False
+LOG00653,TUM0047,2025-02-22,9,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00654,TUM0047,2025-02-23,10,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,True,HIGH,True,False
+LOG00655,TUM0047,2025-02-24,11,True,"Damu nyingi sana, ninaogopa",False,False,False,False,True,False,MODERATE,True,False
+LOG00656,TUM0047,2025-02-25,12,False,,,,,,,,UNKNOWN,False,False
+LOG00657,TUM0047,2025-02-26,13,True,"Damu nyingi sana, ninaogopa",False,False,False,False,False,False,LOW,True,False
+LOG00658,TUM0047,2025-02-27,14,False,,,,,,,,UNKNOWN,False,False
+LOG00659,TUM0048,2025-04-09,1,True,Ninahisi maumivu kidogo tumboni,True,True,False,True,False,False,EMERGENCY,True,False
+LOG00660,TUM0048,2025-04-10,2,True,Maumivu makali upande wa kulia,False,True,True,False,False,False,EMERGENCY,True,True
+LOG00661,TUM0048,2025-04-11,3,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00662,TUM0048,2025-04-12,4,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00663,TUM0048,2025-04-13,5,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00664,TUM0048,2025-04-14,6,False,,,,,,,,UNKNOWN,False,False
+LOG00665,TUM0048,2025-04-15,7,True,Nimekuwa nikilia usiku mzima,False,False,False,True,False,False,MODERATE,True,False
+LOG00666,TUM0048,2025-04-16,8,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,True
+LOG00667,TUM0048,2025-04-17,9,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00668,TUM0048,2025-04-18,10,True,Ninahisi peke yangu kabisa,False,False,True,True,False,False,HIGH,True,True
+LOG00669,TUM0048,2025-04-19,11,True,Ninahisi peke yangu kabisa,False,False,False,False,True,False,MODERATE,True,False
+LOG00670,TUM0048,2025-04-20,12,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00671,TUM0048,2025-04-21,13,False,,,,,,,,UNKNOWN,False,False
+LOG00672,TUM0048,2025-04-22,14,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,True
+LOG00673,TUM0049,2025-03-22,1,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00674,TUM0049,2025-03-23,2,True,Nasikia huzuni kubwa leo,True,False,False,False,False,False,HIGH,True,True
+LOG00675,TUM0049,2025-03-24,3,True,Nina harufu mbaya kutoka chini,False,True,False,False,False,False,MODERATE,True,True
+LOG00676,TUM0049,2025-03-25,4,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00677,TUM0049,2025-03-26,5,True,Nasikia huzuni kubwa leo,False,False,False,False,False,True,HIGH,True,True
+LOG00678,TUM0049,2025-03-27,6,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00679,TUM0049,2025-03-28,7,True,Familia yangu haisemi chochote,True,False,False,False,False,False,HIGH,True,False
+LOG00680,TUM0049,2025-03-29,8,True,Nimekuwa nikilia usiku mzima,True,False,False,True,True,False,EMERGENCY,True,True
+LOG00681,TUM0049,2025-03-30,9,True,Nimekuwa nikitapika tangu asubuhi,False,True,False,True,True,False,EMERGENCY,True,True
+LOG00682,TUM0049,2025-03-31,10,True,Nasikia huzuni kubwa leo,False,True,False,False,False,False,MODERATE,True,True
+LOG00683,TUM0049,2025-04-01,11,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,True,False,True,HIGH,True,False
+LOG00684,TUM0049,2025-04-02,12,False,,,,,,,,UNKNOWN,False,False
+LOG00685,TUM0049,2025-04-03,13,True,Ninahisi peke yangu kabisa,False,True,False,False,False,False,MODERATE,True,True
+LOG00686,TUM0049,2025-04-04,14,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00687,TUM0050,2025-04-20,1,True,Damu bado inatoka lakini kidogo sana,True,False,False,False,False,False,HIGH,True,True
+LOG00688,TUM0050,2025-04-21,2,True,Familia yangu haisemi chochote,True,False,False,False,False,False,HIGH,True,True
+LOG00689,TUM0050,2025-04-22,3,True,Ninahisi peke yangu kabisa,True,True,False,False,False,False,EMERGENCY,True,False
+LOG00690,TUM0050,2025-04-23,4,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00691,TUM0050,2025-04-24,5,False,,,,,,,,UNKNOWN,False,False
+LOG00692,TUM0050,2025-04-25,6,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,False
+LOG00693,TUM0050,2025-04-26,7,False,,,,,,,,UNKNOWN,False,False
+LOG00694,TUM0050,2025-04-27,8,False,,,,,,,,UNKNOWN,False,False
+LOG00695,TUM0050,2025-04-28,9,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00696,TUM0050,2025-04-29,10,True,Nina harufu mbaya kutoka chini,False,False,False,True,True,False,HIGH,True,True
+LOG00697,TUM0050,2025-04-30,11,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,True,False,False,MODERATE,True,True
+LOG00698,TUM0050,2025-05-01,12,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00699,TUM0050,2025-05-02,13,False,,,,,,,,UNKNOWN,False,False
+LOG00700,TUM0050,2025-05-03,14,True,Sijui kama hii ni kawaida,False,False,False,True,False,False,MODERATE,True,False
+LOG00701,TUM0051,2025-04-11,1,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00702,TUM0051,2025-04-12,2,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00703,TUM0051,2025-04-13,3,True,"Nimekwenda hospitali, walisema niko sawa",True,False,False,False,False,False,HIGH,True,False
+LOG00704,TUM0051,2025-04-14,4,True,Nimepata homa kidogo usiku,False,False,True,False,False,False,HIGH,True,False
+LOG00705,TUM0051,2025-04-15,5,True,Nimekuwa nikilia usiku mzima,False,False,True,False,False,False,HIGH,True,False
+LOG00706,TUM0051,2025-04-16,6,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00707,TUM0051,2025-04-17,7,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00708,TUM0051,2025-04-18,8,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,True,False,False,False,False,MODERATE,True,False
+LOG00709,TUM0051,2025-04-19,9,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,True
+LOG00710,TUM0051,2025-04-20,10,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,True
+LOG00711,TUM0051,2025-04-21,11,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00712,TUM0051,2025-04-22,12,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00713,TUM0051,2025-04-23,13,False,,,,,,,,UNKNOWN,False,False
+LOG00714,TUM0051,2025-04-24,14,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00715,TUM0052,2025-04-12,1,True,"No more bleeding, feeling slightly better",True,False,False,False,False,False,HIGH,True,False
+LOG00716,TUM0052,2025-04-13,2,True,Still seeing some light bleeding,True,False,False,False,False,False,HIGH,True,True
+LOG00717,TUM0052,2025-04-14,3,True,I feel completely alone,True,False,False,False,False,True,EMERGENCY,True,False
+LOG00718,TUM0052,2025-04-15,4,True,I had a low fever last night,False,False,False,True,False,False,MODERATE,True,False
+LOG00719,TUM0052,2025-04-16,5,False,,,,,,,,UNKNOWN,False,False
+LOG00720,TUM0052,2025-04-17,6,False,,,,,,,,UNKNOWN,False,False
+LOG00721,TUM0052,2025-04-18,7,True,I've been crying all night,False,False,False,False,False,False,LOW,True,True
+LOG00722,TUM0052,2025-04-19,8,False,,,,,,,,UNKNOWN,False,False
+LOG00723,TUM0052,2025-04-20,9,True,"No more bleeding, feeling slightly better",True,False,False,False,False,False,HIGH,True,False
+LOG00724,TUM0052,2025-04-21,10,True,I don't know what to do now,True,False,False,False,False,True,EMERGENCY,True,True
+LOG00725,TUM0052,2025-04-22,11,False,,,,,,,,UNKNOWN,False,False
+LOG00726,TUM0052,2025-04-23,12,True,I feel very sad today,False,False,False,False,False,False,LOW,True,False
+LOG00727,TUM0052,2025-04-24,13,True,"No more bleeding, feeling slightly better",False,False,False,False,False,False,LOW,True,True
+LOG00728,TUM0052,2025-04-25,14,True,My husband said it was God's will,False,False,False,False,False,False,LOW,True,True
+LOG00729,TUM0053,2025-01-03,1,True,Nimekuwa nikitapika tangu asubuhi,True,False,False,True,False,False,HIGH,True,False
+LOG00730,TUM0053,2025-01-04,2,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,False
+LOG00731,TUM0053,2025-01-05,3,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,False
+LOG00732,TUM0053,2025-01-06,4,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,True,HIGH,True,False
+LOG00733,TUM0053,2025-01-07,5,True,"Sijahisi vizuri leo, nimechoka sana",False,False,True,False,False,False,HIGH,True,True
+LOG00734,TUM0053,2025-01-08,6,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,True
+LOG00735,TUM0053,2025-01-09,7,False,,,,,,,,UNKNOWN,False,False
+LOG00736,TUM0053,2025-01-10,8,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,True,False,MODERATE,True,False
+LOG00737,TUM0053,2025-01-11,9,False,,,,,,,,UNKNOWN,False,False
+LOG00738,TUM0053,2025-01-12,10,False,,,,,,,,UNKNOWN,False,False
+LOG00739,TUM0053,2025-01-13,11,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,False,False,False,LOW,True,True
+LOG00740,TUM0053,2025-01-14,12,False,,,,,,,,UNKNOWN,False,False
+LOG00741,TUM0053,2025-01-15,13,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00742,TUM0053,2025-01-16,14,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00743,TUM0054,2025-01-19,1,True,Familia yangu haisemi chochote,True,False,False,False,False,False,HIGH,True,True
+LOG00744,TUM0054,2025-01-20,2,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,True
+LOG00745,TUM0054,2025-01-21,3,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00746,TUM0054,2025-01-22,4,True,Damu bado inatoka lakini kidogo sana,True,False,False,False,False,False,HIGH,True,True
+LOG00747,TUM0054,2025-01-23,5,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,True,HIGH,True,True
+LOG00748,TUM0054,2025-01-24,6,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,True
+LOG00749,TUM0054,2025-01-25,7,False,,,,,,,,UNKNOWN,False,False
+LOG00750,TUM0054,2025-01-26,8,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00751,TUM0054,2025-01-27,9,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,True
+LOG00752,TUM0054,2025-01-28,10,True,Ninahisi peke yangu kabisa,False,True,False,False,False,False,MODERATE,True,True
+LOG00753,TUM0054,2025-01-29,11,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00754,TUM0054,2025-01-30,12,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,True
+LOG00755,TUM0054,2025-01-31,13,True,"Sijahisi vizuri leo, nimechoka sana",False,True,False,False,False,True,EMERGENCY,True,True
+LOG00756,TUM0054,2025-02-01,14,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,True,False,False,MODERATE,True,False
+LOG00757,TUM0055,2025-02-23,1,True,"Damu nyingi sana, ninaogopa",False,False,True,False,False,False,HIGH,True,True
+LOG00758,TUM0055,2025-02-24,2,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,True,True,False,False,HIGH,True,True
+LOG00759,TUM0055,2025-02-25,3,True,"Damu nyingi sana, ninaogopa",False,False,True,False,False,False,HIGH,True,True
+LOG00760,TUM0055,2025-02-26,4,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00761,TUM0055,2025-02-27,5,True,Nina harufu mbaya kutoka chini,False,False,False,False,False,False,LOW,True,True
+LOG00762,TUM0055,2025-02-28,6,True,Ninahisi peke yangu kabisa,True,False,False,False,False,False,HIGH,True,True
+LOG00763,TUM0055,2025-03-01,7,True,Sijui kama hii ni kawaida,True,False,True,False,False,False,EMERGENCY,True,False
+LOG00764,TUM0055,2025-03-02,8,True,"Sijahisi vizuri leo, nimechoka sana",False,True,True,True,True,False,EMERGENCY,True,True
+LOG00765,TUM0055,2025-03-03,9,False,,,,,,,,UNKNOWN,False,False
+LOG00766,TUM0055,2025-03-04,10,False,,,,,,,,UNKNOWN,False,False
+LOG00767,TUM0055,2025-03-05,11,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,True,False,False,False,HIGH,True,True
+LOG00768,TUM0055,2025-03-06,12,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00769,TUM0055,2025-03-07,13,False,,,,,,,,UNKNOWN,False,False
+LOG00770,TUM0055,2025-03-08,14,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,True,False,MODERATE,True,True
+LOG00771,TUM0056,2025-01-04,1,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00772,TUM0056,2025-01-05,2,False,,,,,,,,UNKNOWN,False,False
+LOG00773,TUM0056,2025-01-06,3,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,True,HIGH,True,False
+LOG00774,TUM0056,2025-01-07,4,True,Sijui nifanye nini sasa,False,True,False,False,False,False,MODERATE,True,True
+LOG00775,TUM0056,2025-01-08,5,True,Ninahisi peke yangu kabisa,False,False,True,False,False,False,HIGH,True,True
+LOG00776,TUM0056,2025-01-09,6,False,,,,,,,,UNKNOWN,False,False
+LOG00777,TUM0056,2025-01-10,7,True,Familia yangu haisemi chochote,False,False,False,True,True,False,HIGH,True,False
+LOG00778,TUM0056,2025-01-11,8,False,,,,,,,,UNKNOWN,False,False
+LOG00779,TUM0056,2025-01-12,9,False,,,,,,,,UNKNOWN,False,False
+LOG00780,TUM0056,2025-01-13,10,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,True
+LOG00781,TUM0056,2025-01-14,11,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,False,False,HIGH,True,True
+LOG00782,TUM0056,2025-01-15,12,False,,,,,,,,UNKNOWN,False,False
+LOG00783,TUM0056,2025-01-16,13,True,"Sina damu tena, ninajisikia vizuri kidogo",False,True,False,False,False,False,MODERATE,True,True
+LOG00784,TUM0056,2025-01-17,14,True,"Sijalala vizuri, ninafikiri mtoto wangu",False,False,False,False,False,False,LOW,True,False
+LOG00785,TUM0057,2025-03-27,1,True,Sijui kama hii ni kawaida,False,False,False,False,False,False,LOW,True,False
+LOG00786,TUM0057,2025-03-28,2,True,Ninahisi peke yangu kabisa,False,False,False,False,False,False,LOW,True,False
+LOG00787,TUM0057,2025-03-29,3,True,Nimekuwa nikilia usiku mzima,True,True,False,False,False,False,EMERGENCY,True,True
+LOG00788,TUM0057,2025-03-30,4,True,Nasikia huzuni kubwa leo,False,False,False,False,False,False,LOW,True,False
+LOG00789,TUM0057,2025-03-31,5,True,Damu bado inatoka lakini kidogo sana,False,False,False,False,False,False,LOW,True,False
+LOG00790,TUM0057,2025-04-01,6,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,False
+LOG00791,TUM0057,2025-04-02,7,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,False,False,False,False,HIGH,True,False
+LOG00792,TUM0057,2025-04-03,8,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00793,TUM0057,2025-04-04,9,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,True
+LOG00794,TUM0057,2025-04-05,10,True,Familia yangu haisemi chochote,False,False,False,False,False,False,LOW,True,False
+LOG00795,TUM0057,2025-04-06,11,False,,,,,,,,UNKNOWN,False,False
+LOG00796,TUM0057,2025-04-07,12,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00797,TUM0057,2025-04-08,13,True,Damu bado inatoka lakini kidogo sana,False,False,True,False,False,False,HIGH,True,False
+LOG00798,TUM0057,2025-04-09,14,False,,,,,,,,UNKNOWN,False,False
+LOG00799,TUM0058,2025-01-07,1,True,"Nimekwenda hospitali, walisema niko sawa",False,False,False,False,False,False,LOW,True,False
+LOG00800,TUM0058,2025-01-08,2,True,Sijui nifanye nini sasa,True,False,False,False,False,False,HIGH,True,False
+LOG00801,TUM0058,2025-01-09,3,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00802,TUM0058,2025-01-10,4,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00803,TUM0058,2025-01-11,5,True,Sijui kama hii ni kawaida,False,True,False,False,False,False,MODERATE,True,False
+LOG00804,TUM0058,2025-01-12,6,False,,,,,,,,UNKNOWN,False,False
+LOG00805,TUM0058,2025-01-13,7,True,"Sijahisi vizuri leo, nimechoka sana",True,False,False,False,True,False,EMERGENCY,True,True
+LOG00806,TUM0058,2025-01-14,8,True,Sijui nifanye nini sasa,True,False,False,False,False,False,HIGH,True,False
+LOG00807,TUM0058,2025-01-15,9,True,"Sina damu tena, ninajisikia vizuri kidogo",False,False,False,False,False,False,LOW,True,True
+LOG00808,TUM0058,2025-01-16,10,True,Nimepata homa kidogo usiku,False,False,False,False,False,False,LOW,True,True
+LOG00809,TUM0058,2025-01-17,11,False,,,,,,,,UNKNOWN,False,False
+LOG00810,TUM0058,2025-01-18,12,True,Maumivu makali upande wa kulia,False,False,False,False,False,False,LOW,True,True
+LOG00811,TUM0058,2025-01-19,13,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,True
+LOG00812,TUM0058,2025-01-20,14,False,,,,,,,,UNKNOWN,False,False
+LOG00813,TUM0059,2025-03-13,1,True,Sijui nifanye nini sasa,False,False,False,False,False,False,LOW,True,False
+LOG00814,TUM0059,2025-03-14,2,False,,,,,,,,UNKNOWN,False,False
+LOG00815,TUM0059,2025-03-15,3,True,Nasikia huzuni kubwa leo,False,False,False,True,False,False,MODERATE,True,False
+LOG00816,TUM0059,2025-03-16,4,True,Nimekuwa nikitapika tangu asubuhi,False,False,False,True,False,False,MODERATE,True,True
+LOG00817,TUM0059,2025-03-17,5,True,Mumewe alisema ni baraka kutoka kwa Mungu,True,False,True,True,False,False,EMERGENCY,True,False
+LOG00818,TUM0059,2025-03-18,6,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,False,False,False,False,LOW,True,False
+LOG00819,TUM0059,2025-03-19,7,True,"Nimekwenda hospitali, walisema niko sawa",False,True,False,False,False,False,MODERATE,True,True
+LOG00820,TUM0059,2025-03-20,8,False,,,,,,,,UNKNOWN,False,False
+LOG00821,TUM0059,2025-03-21,9,False,,,,,,,,UNKNOWN,False,False
+LOG00822,TUM0059,2025-03-22,10,False,,,,,,,,UNKNOWN,False,False
+LOG00823,TUM0059,2025-03-23,11,True,"Sijahisi vizuri leo, nimechoka sana",False,False,False,False,False,False,LOW,True,False
+LOG00824,TUM0059,2025-03-24,12,True,Nimekuwa nikilia usiku mzima,False,False,False,False,False,False,LOW,True,False
+LOG00825,TUM0059,2025-03-25,13,True,Mumewe alisema ni baraka kutoka kwa Mungu,False,False,True,False,False,False,HIGH,True,True
+LOG00826,TUM0059,2025-03-26,14,True,Ninahisi maumivu kidogo tumboni,False,False,False,False,False,False,LOW,True,False
+LOG00827,TUM0060,2025-02-25,1,True,I had a low fever last night,True,True,False,False,False,False,EMERGENCY,True,True
+LOG00828,TUM0060,2025-02-26,2,False,,,,,,,,UNKNOWN,False,False
+LOG00829,TUM0060,2025-02-27,3,True,"Heavy bleeding, I'm scared",True,False,False,False,False,False,HIGH,True,False
+LOG00830,TUM0060,2025-02-28,4,True,I feel completely alone,False,False,False,False,False,False,LOW,True,False
+LOG00831,TUM0060,2025-03-01,5,True,"No more bleeding, feeling slightly better",False,False,False,False,True,True,EMERGENCY,True,False
+LOG00832,TUM0060,2025-03-02,6,True,My family doesn't talk about it,False,False,False,False,False,False,LOW,True,True
+LOG00833,TUM0060,2025-03-03,7,False,,,,,,,,UNKNOWN,False,False
+LOG00834,TUM0060,2025-03-04,8,True,I don't know what to do now,False,False,False,False,False,False,LOW,True,True
+LOG00835,TUM0060,2025-03-05,9,True,I feel completely alone,False,False,False,False,True,False,MODERATE,True,True
+LOG00836,TUM0060,2025-03-06,10,True,"There is a bad smell, I don't know if normal",False,False,False,False,False,False,LOW,True,False
+LOG00837,TUM0060,2025-03-07,11,True,My family doesn't talk about it,False,False,False,False,False,False,LOW,True,True
+LOG00838,TUM0060,2025-03-08,12,True,Sharp pain on my right side,False,False,False,False,False,False,LOW,True,True
+LOG00839,TUM0060,2025-03-09,13,False,,,,,,,,UNKNOWN,False,False
+LOG00840,TUM0060,2025-03-10,14,True,I feel completely alone,False,False,True,False,False,True,EMERGENCY,True,True

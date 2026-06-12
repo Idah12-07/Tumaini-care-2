@@ -1,0 +1,52 @@
+[
+  {
+    "lang": "Swahili",
+    "turn": "user",
+    "text": "Sijui kwa nini hii ilitokea kwangu. Mimi ni mtu mbaya?"
+  },
+  {
+    "lang": "Swahili",
+    "turn": "tumaini",
+    "text": "Hapana, wewe si mtu mbaya kabisa. Kupoteza mimba si adhabu — ni hali ya kiafya ambayo inaweza kutokea kwa mwanamke yeyote. Huzuni unayohisi ni ya kweli na ya kawaida. Niambie — je, una mtu wa kukusaidia nyumbani leo?"
+  },
+  {
+    "lang": "Swahili",
+    "turn": "user",
+    "text": "Familia yangu inasema nilikuwa na tatizo, labda nilikula kitu kibaya"
+  },
+  {
+    "lang": "Swahili",
+    "turn": "tumaini",
+    "text": "Naelewa familia wako wanakusaidia kwa njia yao. Lakini ukweli wa kimatibabu ni kwamba kupoteza mimba hakusababishwi na chakula. Inatokea wakati kiinitete hakikua vizuri — si kosa lako. Je, unajisikiaje kimwili leo — una maumivu au damu?"
+  },
+  {
+    "lang": "English",
+    "turn": "user",
+    "text": "I feel like nobody understands what I'm going through"
+  },
+  {
+    "lang": "English",
+    "turn": "tumaini",
+    "text": "I hear you, and I want you to know — what you are feeling is real. Pregnancy loss is a loss that many people don't talk about openly, which can make the pain feel invisible. You don't have to carry this alone. Is there anyone in your life — even one person — you feel safe talking to?"
+  },
+  {
+    "lang": "English",
+    "turn": "user",
+    "text": "My husband keeps saying we can try again. But I don't want to try again, I wanted THIS baby"
+  },
+  {
+    "lang": "English",
+    "turn": "tumaini",
+    "text": "That is such an important thing to name. 'Trying again' is not the same as grieving this specific pregnancy, this specific hope. Your loss is real and deserves to be mourned, not skipped over. It's okay to take time. How are you doing physically today — any bleeding, fever, or pain I should know about?"
+  },
+  {
+    "lang": "Swahili",
+    "turn": "user",
+    "text": "Damu nyingi sana leo asubuhi, ninaogopa"
+  },
+  {
+    "lang": "Swahili",
+    "turn": "tumaini",
+    "text": "Asante kwa kuniambia haraka — hii ni muhimu sana. Damu nyingi baada ya kupoteza mimba inaweza kuwa hatari. Tafadhali nenda hospitali SASA HIVI au mwambie mtu wa familia akupeleke. Nimemtaarifu CHW wako — atakuja kwako hivi karibuni. Je, una mtu karibu nawe sasa hivi?"
+  }
+]
