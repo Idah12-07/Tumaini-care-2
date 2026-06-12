@@ -8,6 +8,7 @@ from models.symptom_log  import SymptomLog    # noqa
 from models.chw_alert    import CHWAlert      # noqa
 from models.conversation import Conversation  # noqa
 from core.database import create_tables
+from routes import auth
 
 logger = logging.getLogger(__name__)
 
@@ -62,6 +63,7 @@ app.include_router(ussd.router,       prefix="/api/channel",   tags=["USSD"])
 app.include_router(sms.router,        prefix="/api/channel",   tags=["SMS"])
 app.include_router(whatsapp.router,   prefix="/api/channel",   tags=["WhatsApp"])
 app.include_router(referral.router,   prefix="/api/referral",  tags=["Referral"])
+app.include_router(auth.router, prefix="/api/auth", tags=["Authentication"])
 
 @app.get("/health")
 def health():
